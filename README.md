@@ -15,10 +15,10 @@ This project is developed using Streamlit (https://www.streamlit.io/), an open-s
 I tried to include all the possible cases to extract the above information, but still for some cases it may fail to extract all the details.
 
 
-**1. Used Regex Patterns for removing all the unwanted characters and for identifying some key phrases. **
-**2. Used Stop Words from NLTK module to remove stopwords from the html text.**
-**3. Used Pandas to read and query CSV files.**
-**4. Used BeautifulSoup (bs4) module to scrape the domain web pages.**
+***1. Used Regex Patterns for removing all the unwanted characters and for identifying some key phrases. <br />
+2. Used Stop Words from NLTK module to remove stopwords from the html text. <br />
+3. Used Pandas to read and query CSV files. <br />
+4. Used BeautifulSoup (bs4) module to scrape the domain web pages.***
 
 Programming Language: Python3.7
 
