@@ -1,0 +1,3753 @@
+Country	StateCode	StateName
+Afghanistan	BDS	Badakhshān
+Afghanistan	BGL	Baghlān
+Afghanistan	BAL	Balkh
+Afghanistan	BDG	Bādghīs
+Afghanistan	BAM	Bāmyān
+Afghanistan	DAY	Dāykundī
+Afghanistan	FRA	Farāh
+Afghanistan	FYB	Fāryāb
+Afghanistan	GHA	Ghaznī
+Afghanistan	GHO	Ghōr
+Afghanistan	HEL	Helmand
+Afghanistan	HER	Herāt
+Afghanistan	JOW	Jowzjān
+Afghanistan	KAN	Kandahār
+Afghanistan	KHO	Khōst
+Afghanistan	KNR	Kunar
+Afghanistan	KDZ	Kunduz
+Afghanistan	KAB	Kābul
+Afghanistan	KAP	Kāpīsā
+Afghanistan	LAG	Laghmān
+Afghanistan	LOG	Lōgar
+Afghanistan	NAN	Nangarhār
+Afghanistan	NIM	Nīmrōz
+Afghanistan	NUR	Nūristān
+Afghanistan	PIA	Paktiyā
+Afghanistan	PKA	Paktīkā
+Afghanistan	PAN	Panjshayr
+Afghanistan	PAR	Parwān
+Afghanistan	SAM	Samangān
+Afghanistan	SAR	Sar-e Pul
+Afghanistan	TAK	Takhār
+Afghanistan	URU	Uruzgān
+Afghanistan	WAR	Wardak
+Afghanistan	ZAB	Zābul
+Albania	1	Berat
+Albania	9	Dibër
+Albania	2	Durrës
+Albania	3	Elbasan
+Albania	4	Fier
+Albania	5	Gjirokastër
+Albania	6	Korçë
+Albania	7	Kukës
+Albania	8	Lezhë
+Albania	10	Shkodër
+Albania	11	Tiranë
+Albania	12	Vlorë
+Algeria	1	Adrar
+Algeria	16	Alger
+Algeria	23	Annaba
+Algeria	44	Aïn Defla
+Algeria	46	Aïn Témouchent
+Algeria	5	Batna
+Algeria	7	Biskra
+Algeria	9	Blida
+Algeria	34	Bordj Bou Arréridj
+Algeria	10	Bouira
+Algeria	35	Boumerdès
+Algeria	8	Béchar
+Algeria	6	Béjaïa
+Algeria	2	Chlef
+Algeria	25	Constantine
+Algeria	17	Djelfa
+Algeria	32	El Bayadh
+Algeria	39	El Oued
+Algeria	36	El Tarf
+Algeria	47	Ghardaïa
+Algeria	24	Guelma
+Algeria	33	Illizi
+Algeria	18	Jijel
+Algeria	40	Khenchela
+Algeria	3	Laghouat
+Algeria	29	Mascara
+Algeria	43	Mila
+Algeria	27	Mostaganem
+Algeria	28	Msila
+Algeria	26	Médéa
+Algeria	45	Naama
+Algeria	31	Oran
+Algeria	30	Ouargla
+Algeria	4	Oum el Bouaghi
+Algeria	48	Relizane
+Algeria	20	Saïda
+Algeria	22	Sidi Bel Abbès
+Algeria	21	Skikda
+Algeria	41	Souk Ahras
+Algeria	19	Sétif
+Algeria	11	Tamanghasset
+Algeria	14	Tiaret
+Algeria	37	Tindouf
+Algeria	42	Tipaza
+Algeria	38	Tissemsilt
+Algeria	15	Tizi Ouzou
+Algeria	13	Tlemcen
+Algeria	12	Tébessa
+Andorra	7	Andorra la Vella
+Andorra	2	Canillo
+Andorra	3	Encamp
+Andorra	8	Escaldes-Engordany
+Andorra	4	La Massana
+Andorra	5	Ordino
+Andorra	6	Sant Julià de Lòria
+Angola	BGO	Bengo
+Angola	BGU	Benguela
+Angola	BIE	Bié
+Angola	CAB	Cabinda
+Angola	CNN	Cunene
+Angola	HUA	Huambo
+Angola	HUI	Huíla
+Angola	CCU	Kuando Kubango
+Angola	CNO	Kwanza Norte
+Angola	CUS	Kwanza Sul
+Angola	LUA	Luanda
+Angola	LNO	Lunda Norte
+Angola	LSU	Lunda Sul
+Angola	MAL	Malange
+Angola	MOX	Moxico
+Angola	NAM	Namibe
+Angola	UIG	Uíge
+Angola	ZAI	Zaire
+Antigua and Barbuda	10	Barbuda
+Antigua and Barbuda	11	Redonda
+Antigua and Barbuda	3	Saint George
+Antigua and Barbuda	4	Saint John
+Antigua and Barbuda	5	Saint Mary
+Antigua and Barbuda	6	Saint Paul
+Antigua and Barbuda	7	Saint Peter
+Antigua and Barbuda	8	Saint Philip
+Argentina	B	Buenos Aires
+Argentina	K	Catamarca
+Argentina	H	Chaco
+Argentina	U	Chubut
+Argentina	C	Ciudad Autónoma de Buenos Aires
+Argentina	W	Corrientes
+Argentina	X	Córdoba
+Argentina	E	Entre Ríos
+Argentina	P	Formosa
+Argentina	Y	Jujuy
+Argentina	L	La Pampa
+Argentina	F	La Rioja
+Argentina	M	Mendoza
+Argentina	N	Misiones
+Argentina	Q	Neuquén
+Argentina	R	Río Negro
+Argentina	A	Salta
+Argentina	J	San Juan
+Argentina	D	San Luis
+Argentina	Z	Santa Cruz
+Argentina	S	Santa Fe
+Argentina	G	Santiago del Estero
+Argentina	V	Tierra del Fuego
+Argentina	T	Tucumán
+Armenia	AG	Aragac̣otn
+Armenia	AR	Ararat
+Armenia	AV	Armavir
+Armenia	ER	Erevan
+Armenia	GR	Geġark'unik'
+Armenia	KT	Kotayk'
+Armenia	LO	Loṙi
+Armenia	SU	Syunik'
+Armenia	TV	Tavuš
+Armenia	VD	Vayoć Jor
+Armenia	SH	Širak
+Australia	ACT	Australian Capital Territory
+Australia	NSW	New South Wales
+Australia	NT	Northern Territory
+Australia	QLD	Queensland
+Australia	SA	South Australia
+Australia	TAS	Tasmania
+Australia	VIC	Victoria
+Australia	WA	Western Australia
+Austria	B	Burgenland
+Austria	K	Kärnten
+Austria	NÖ	Niederösterreich
+Austria	OÖ	Oberösterreich
+Austria	S	Salzburg
+Austria	ST	Steiermark
+Austria	T	Tirol
+Austria	V	Vorarlberg
+Austria	W	Wien
+Azerbaijan	NX	Naxçıvan
+The Bahamas	AK	Acklins
+The Bahamas	BY	Berry Islands
+The Bahamas	BI	Bimini
+The Bahamas	BP	Black Point
+The Bahamas	CI	Cat Island
+The Bahamas	CO	Central Abaco
+The Bahamas	CS	Central Andros
+The Bahamas	CE	Central Eleuthera
+The Bahamas	FP	City of Freeport
+The Bahamas	CK	Crooked Island and Long Cay
+The Bahamas	EG	East Grand Bahama
+The Bahamas	EX	Exuma
+The Bahamas	GC	Grand Cay
+The Bahamas	HI	Harbour Island
+The Bahamas	HT	Hope Town
+The Bahamas	IN	Inagua
+The Bahamas	LI	Long Island
+The Bahamas	MC	Mangrove Cay
+The Bahamas	MG	Mayaguana
+The Bahamas	MI	Moores Island
+The Bahamas	NO	North Abaco
+The Bahamas	NS	North Andros
+The Bahamas	NE	North Eleuthera
+The Bahamas	RI	Ragged Island
+The Bahamas	RC	Rum Cay
+The Bahamas	SS	San Salvador
+The Bahamas	SO	South Abaco
+The Bahamas	SA	South Andros
+The Bahamas	SE	South Eleuthera
+The Bahamas	SW	Spanish Wells
+The Bahamas	WG	West Grand Bahama
+Bahrain	14	Al Janūbīyah
+Bahrain	13	Al Manāmah
+Bahrain	15	Al Muḩarraq
+Bahrain	16	Al Wusţá
+Bahrain	17	Ash Shamālīyah
+Bangladesh	A	Barisal
+Bangladesh	B	Chittagong
+Bangladesh	C	Dhaka
+Bangladesh	D	Khulna
+Bangladesh	E	Rajshahi
+Bangladesh	F	Rangpur
+Bangladesh	G	Sylhet
+Barbados	1	Christ Church
+Barbados	2	Saint Andrew
+Barbados	3	Saint George
+Barbados	4	Saint James
+Barbados	5	Saint John
+Barbados	6	Saint Joseph
+Barbados	7	Saint Lucy
+Barbados	8	Saint Michael
+Barbados	9	Saint Peter
+Barbados	10	Saint Philip
+Barbados	11	Saint Thomas
+Belarus	BR	Brestskaya voblasts'
+Belarus	HO	Homyel'skaya voblasts'
+Belarus	HM	Horad Minsk
+Belarus	HR	Hrodzenskaya voblasts'
+Belarus	MA	Mahilyowskaya voblasts'
+Belarus	MI	Minskaya voblasts'
+Belarus	VI	Vitsyebskaya voblasts'
+Belgium	BRU	Brussels Hoofdstedelijk Gewest
+Belgium	WAL	Région Wallonne
+Belgium	VLG	Vlaams Gewest
+Belize	BZ	Belize
+Belize	CY	Cayo
+Belize	CZL	Corozal
+Belize	OW	Orange Walk
+Belize	SC	Stann Creek
+Belize	TOL	Toledo
+Benin	AL	Alibori
+Benin	AK	Atakora
+Benin	AQ	Atlantique
+Benin	BO	Borgou
+Benin	CO	Collines
+Benin	DO	Donga
+Benin	KO	Kouffo
+Benin	LI	Littoral
+Benin	MO	Mono
+Benin	OU	Ouémé
+Benin	PL	Plateau
+Benin	ZO	Zou
+Bhutan	33	Bumthang
+Bhutan	12	Chhukha
+Bhutan	22	Dagana
+Bhutan	GA	Gasa
+Bhutan	13	Ha
+Bhutan	44	Lhuentse
+Bhutan	42	Monggar
+Bhutan	11	Paro
+Bhutan	43	Pemagatshel
+Bhutan	23	Punakha
+Bhutan	45	Samdrup Jongkha
+Bhutan	14	Samtse
+Bhutan	31	Sarpang
+Bhutan	15	Thimphu
+Bhutan	TY	Trashi Yangtse
+Bhutan	41	Trashigang
+Bhutan	32	Trongsa
+Bhutan	21	Tsirang
+Bhutan	24	Wangdue Phodrang
+Bhutan	34	Zhemgang
+Bolivia	H	Chuquisaca
+Bolivia	C	Cochabamba
+Bolivia	B	El Beni
+Bolivia	L	La Paz
+Bolivia	O	Oruro
+Bolivia	N	Pando
+Bolivia	P	Potosí
+Bolivia	S	Santa Cruz
+Bolivia	T	Tarija
+Bosnia and Herzegovina	BRC	Brčko distrikt
+Bosnia and Herzegovina	BIH	Federacija Bosna i Hercegovina
+Bosnia and Herzegovina	SRP	Republika Srpska
+Botswana	CE	Central
+Botswana	CH	Chobe
+Botswana	FR	Francistown
+Botswana	GA	Gaborone
+Botswana	GH	Ghanzi
+Botswana	JW	Jwaneng
+Botswana	KG	Kgalagadi
+Botswana	KL	Kgatleng
+Botswana	KW	Kweneng
+Botswana	LO	Lobatse
+Botswana	NE	North-East
+Botswana	NW	North-West
+Botswana	SP	Selibe Phikwe
+Botswana	SE	South-East
+Botswana	SO	Southern
+Botswana	ST	Sowa Town
+Brazil	AC	Acre
+Brazil	AL	Alagoas
+Brazil	AP	Amapá
+Brazil	AM	Amazonas
+Brazil	BA	Bahia
+Brazil	CE	Ceará
+Brazil	DF	Distrito Federal
+Brazil	ES	Espírito Santo
+Brazil	GO	Goiás
+Brazil	MA	Maranhão
+Brazil	MT	Mato Grosso
+Brazil	MS	Mato Grosso do Sul
+Brazil	MG	Minas Gerais
+Brazil	PR	Paraná
+Brazil	PB	Paraíba
+Brazil	PA	Pará
+Brazil	PE	Pernambuco
+Brazil	PI	Piauí
+Brazil	RN	Rio Grande do Norte
+Brazil	RS	Rio Grande do Sul
+Brazil	RJ	Rio de Janeiro
+Brazil	RO	Rondônia
+Brazil	RR	Roraima
+Brazil	SC	Santa Catarina
+Brazil	SE	Sergipe
+Brazil	SP	São Paulo
+Brazil	TO	Tocantins
+United States Minor Outlying Islands	81	Baker Island
+United States Minor Outlying Islands	84	Howland Island
+United States Minor Outlying Islands	86	Jarvis Island
+United States Minor Outlying Islands	67	Johnston Atoll
+United States Minor Outlying Islands	89	Kingman Reef
+United States Minor Outlying Islands	71	Midway Islands
+United States Minor Outlying Islands	76	Navassa Island
+United States Minor Outlying Islands	95	Palmyra Atoll
+United States Minor Outlying Islands	79	Wake Island
+Brunei	BE	Belait
+Brunei	BM	Brunei-Muara
+Brunei	TE	Temburong
+Brunei	TU	Tutong
+Bulgaria	1	Blagoevgrad
+Bulgaria	2	Burgas
+Bulgaria	8	Dobrich
+Bulgaria	7	Gabrovo
+Bulgaria	26	Haskovo
+Bulgaria	9	Kardzhali
+Bulgaria	10	Kyustendil
+Bulgaria	11	Lovech
+Bulgaria	12	Montana
+Bulgaria	13	Pazardzhik
+Bulgaria	14	Pernik
+Bulgaria	15	Pleven
+Bulgaria	16	Plovdiv
+Bulgaria	17	Razgrad
+Bulgaria	18	Ruse
+Bulgaria	27	Shumen
+Bulgaria	19	Silistra
+Bulgaria	20	Sliven
+Bulgaria	21	Smolyan
+Bulgaria	23	Sofia
+Bulgaria	22	Sofia-Grad
+Bulgaria	24	Stara Zagora
+Bulgaria	25	Targovishte
+Bulgaria	3	Varna
+Bulgaria	4	Veliko Tarnovo
+Bulgaria	5	Vidin
+Bulgaria	6	Vratsa
+Bulgaria	28	Yambol
+Burkina Faso	1	Boucle du Mouhoun
+Burkina Faso	2	Cascades
+Burkina Faso	3	Centre
+Burkina Faso	4	Centre-Est
+Burkina Faso	5	Centre-Nord
+Burkina Faso	6	Centre-Ouest
+Burkina Faso	7	Centre-Sud
+Burkina Faso	8	Est
+Burkina Faso	9	Hauts-Bassins
+Burkina Faso	10	Nord
+Burkina Faso	11	Plateau-Central
+Burkina Faso	12	Sahel
+Burkina Faso	13	Sud-Ouest
+Burundi	BB	Bubanza
+Burundi	BM	Bujumbura Mairie
+Burundi	BL	Bujumbura Rural
+Burundi	BR	Bururi
+Burundi	CA	Cankuzo
+Burundi	CI	Cibitoke
+Burundi	GI	Gitega
+Burundi	KR	Karuzi
+Burundi	KY	Kayanza
+Burundi	KI	Kirundo
+Burundi	MA	Makamba
+Burundi	MU	Muramvya
+Burundi	MY	Muyinga
+Burundi	MW	Mwaro
+Burundi	NG	Ngozi
+Burundi	RT	Rutana
+Burundi	RY	Ruyigi
+Cambodia	2	Baat Dambang
+Cambodia	1	Banteay Mean Chey
+Cambodia	3	Kampong Chaam
+Cambodia	4	Kampong Chhnang
+Cambodia	5	Kampong Spueu
+Cambodia	6	Kampong Thum
+Cambodia	7	Kampot
+Cambodia	8	Kandaal
+Cambodia	9	Kaoh Kong
+Cambodia	10	Kracheh
+Cambodia	23	Krong Kaeb
+Cambodia	24	Krong Pailin
+Cambodia	18	Krong Preah Sihanouk
+Cambodia	11	Mondol Kiri
+Cambodia	22	Otdar Mean Chey
+Cambodia	12	Phnom Penh
+Cambodia	15	Pousaat
+Cambodia	13	Preah Vihear
+Cambodia	14	Prey Veaeng
+Cambodia	16	Rotanak Kiri
+Cambodia	17	Siem Reab
+Cambodia	19	Stueng Traeng
+Cambodia	20	Svaay Rieng
+Cambodia	21	Taakaev
+Cameroon	AD	Adamaoua
+Cameroon	CE	Centre
+Cameroon	ES	East
+Cameroon	EN	Far North
+Cameroon	LT	Littoral
+Cameroon	NO	North
+Cameroon	NW	North-West
+Cameroon	SU	South
+Cameroon	SW	South-West
+Cameroon	OU	West
+Canada	AB	Alberta
+Canada	BC	British Columbia
+Canada	MB	Manitoba
+Canada	NB	New Brunswick
+Canada	NL	Newfoundland and Labrador
+Canada	NS	Nova Scotia
+Canada	ON	Ontario
+Canada	PE	Prince Edward Island
+Canada	QC	Quebec
+Canada	SK	Saskatchewan
+Canada	NT	Northwest Territories
+Canada	NU	Nunavut
+Canada	YT	Yukon
+Cape Verde	B	Ilhas de Barlavento
+Cape Verde	S	Ilhas de Sotavento
+Central African Republic	BB	Bamingui-Bangoran
+Central African Republic	BGF	Bangui
+Central African Republic	BK	Basse-Kotto
+Central African Republic	KB	Gribingui
+Central African Republic	HM	Haut-Mbomou
+Central African Republic	HK	Haute-Kotto
+Central African Republic	HS	Haute-Sangha / Mambéré-Kadéï
+Central African Republic	KG	Kémo-Gribingui
+Central African Republic	LB	Lobaye
+Central African Republic	MB	Mbomou
+Central African Republic	NM	Nana-Mambéré
+Central African Republic	MP	Ombella-Mpoko
+Central African Republic	UK	Ouaka
+Central African Republic	AC	Ouham
+Central African Republic	OP	Ouham-Pendé
+Central African Republic	SE	Sangha
+Central African Republic	VK	Vakaga
+Chad	BA	Al Baṭḩah
+Chad	LC	Al Buḩayrah
+Chad	BG	Baḩr al Ghazāl
+Chad	BO	Būrkū
+Chad	EN	Innīdī
+Chad	KA	Kānim
+Chad	LO	Lūqūn al Gharbī
+Chad	LR	Lūqūn ash Sharqī
+Chad	ND	Madīnat Injamīnā
+Chad	MA	Māndūl
+Chad	MO	Māyū Kībbī al Gharbī
+Chad	ME	Māyū Kībbī ash Sharqī
+Chad	GR	Qīrā
+Chad	SA	Salāmāt
+Chad	CB	Shārī Bāqirmī
+Chad	MC	Shārī al Awsaṭ
+Chad	SI	Sīlā
+Chad	TI	Tibastī
+Chad	TA	Tānjilī
+Chad	OD	Waddāy
+Chad	WF	Wādī Fīrā
+Chad	HL	Ḥajjar Lamīs
+Chile	AI	Aisén del General Carlos Ibañez del Campo
+Chile	AN	Antofagasta
+Chile	AR	Araucanía
+Chile	AP	Arica y Parinacota
+Chile	AT	Atacama
+Chile	BI	Bío-Bío
+Chile	CO	Coquimbo
+Chile	LI	Libertador General Bernardo O'Higgins
+Chile	LL	Los Lagos
+Chile	LR	Los Ríos
+Chile	MA	Magallanes
+Chile	ML	Maule
+Chile	RM	Región Metropolitana de Santiago
+Chile	TA	Tarapacá
+Chile	VS	Valparaíso
+China	45	Guangxi
+China	15	Nei Mongol
+China	64	Ningxia
+China	65	Xinjiang
+China	54	Xizang
+China	11	Beijing
+China	50	Chongqing
+China	31	Shanghai
+China	12	Tianjin
+China	34	Anhui
+China	35	Fujian
+China	62	Gansu
+China	44	Guangdong
+China	52	Guizhou
+China	46	Hainan
+China	13	Hebei
+China	23	Heilongjiang
+China	41	Henan
+China	42	Hubei
+China	43	Hunan
+China	32	Jiangsu
+China	36	Jiangxi
+China	22	Jilin
+China	21	Liaoning
+China	63	Qinghai
+China	61	Shaanxi
+China	37	Shandong
+China	14	Shanxi
+China	51	Sichuan
+China	71	Taiwan
+China	53	Yunnan
+China	33	Zhejiang
+China	91	Hong Kong
+China	92	Macao
+China		Hong Kong Island
+China	KOWLOON	Kowloon
+China	NEW TERRITORIES	New Territories
+Colombia	AMA	Amazonas
+Colombia	ANT	Antioquia
+Colombia	ARA	Arauca
+Colombia	ATL	Atlántico
+Colombia	BOL	Bolívar
+Colombia	BOY	Boyacá
+Colombia	CAL	Caldas
+Colombia	CAQ	Caquetá
+Colombia	CAS	Casanare
+Colombia	CAU	Cauca
+Colombia	CES	Cesar
+Colombia	CHO	Chocó
+Colombia	CUN	Cundinamarca
+Colombia	COR	Córdoba
+Colombia	DC	Distrito Capital de Bogotá
+Colombia	GUA	Guainía
+Colombia	GUV	Guaviare
+Colombia	HUI	Huila
+Colombia	LAG	La Guajira
+Colombia	MAG	Magdalena
+Colombia	MET	Meta
+Colombia	NAR	Nariño
+Colombia	NSA	Norte de Santander
+Colombia	PUT	Putumayo
+Colombia	QUI	Quindío
+Colombia	RIS	Risaralda
+Colombia	SAP	San Andrés, Providencia y Santa Catalina
+Colombia	SAN	Santander
+Colombia	SUC	Sucre
+Colombia	TOL	Tolima
+Colombia	VAC	Valle del Cauca
+Colombia	VAU	Vaupés
+Colombia	VID	Vichada
+Comoros	A	Anjouan
+Comoros	G	Grande Comore
+Comoros	M	Mohéli
+Republic of the Congo	11	Bouenza
+Republic of the Congo	BZV	Brazzaville
+Republic of the Congo	8	Cuvette
+Republic of the Congo	15	Cuvette-Ouest
+Republic of the Congo	5	Kouilou
+Republic of the Congo	7	Likouala
+Republic of the Congo	2	Lékoumou
+Republic of the Congo	9	Niari
+Republic of the Congo	14	Plateaux
+Republic of the Congo	16	Pointe-Noire
+Republic of the Congo	12	Pool
+Republic of the Congo	13	Sangha
+Democratic Republic of the Congo	BN	Bandundu
+Democratic Republic of the Congo	BC	Bas-Congo
+Democratic Republic of the Congo	KW	Kasai-Occidental
+Democratic Republic of the Congo	KE	Kasai-Oriental
+Democratic Republic of the Congo	KA	Katanga
+Democratic Republic of the Congo	KN	Kinshasa
+Democratic Republic of the Congo	MA	Maniema
+Democratic Republic of the Congo	NK	Nord-Kivu
+Democratic Republic of the Congo	OR	Orientale
+Democratic Republic of the Congo	SK	Sud-Kivu
+Democratic Republic of the Congo	EQ	Équateur
+Costa Rica	A	Alajuela
+Costa Rica	C	Cartago
+Costa Rica	G	Guanacaste
+Costa Rica	H	Heredia
+Costa Rica	L	Limón
+Costa Rica	P	Puntarenas
+Costa Rica	SJ	San José
+Croatia	7	Bjelovarsko-bilogorska županija
+Croatia	12	Brodsko-posavska županija
+Croatia	19	Dubrovačko-neretvanska županija
+Croatia	21	Grad Zagreb
+Croatia	18	Istarska županija
+Croatia	4	Karlovačka županija
+Croatia	6	Koprivničko-križevačka županija
+Croatia	2	Krapinsko-zagorska županija
+Croatia	9	Ličko-senjska županija
+Croatia	20	Međimurska županija
+Croatia	14	Osječko-baranjska županija
+Croatia	11	Požeško-slavonska županija
+Croatia	8	Primorsko-goranska županija
+Croatia	3	Sisačko-moslavačka županija
+Croatia	17	Splitsko-dalmatinska županija
+Croatia	5	Varaždinska županija
+Croatia	10	Virovitičko-podravska županija
+Croatia	16	Vukovarsko-srijemska županija
+Croatia	13	Zadarska županija
+Croatia	1	Zagrebačka županija
+Croatia	15	Šibensko-kninska županija
+Cuba	15	Artemisa
+Cuba	9	Camagüey
+Cuba	8	Ciego de Ávila
+Cuba	6	Cienfuegos
+Cuba	12	Granma
+Cuba	14	Guantánamo
+Cuba	11	Holguín
+Cuba	99	Isla de la Juventud
+Cuba	3	La Habana
+Cuba	10	Las Tunas
+Cuba	4	Matanzas
+Cuba	16	Mayabeque
+Cuba	1	Pinar del Río
+Cuba	7	Sancti Spíritus
+Cuba	13	Santiago de Cuba
+Cuba	5	Villa Clara
+Cyprus	4	Ammochostos
+Cyprus	6	Keryneia
+Cyprus	3	Larnaka
+Cyprus	1	Lefkosia
+Cyprus	2	Lemesos
+Cyprus	5	Pafos
+Czech Republic	JM	Jihomoravský kraj
+Czech Republic	JC	Jihočeský kraj
+Czech Republic	KA	Karlovarský kraj
+Czech Republic	KR	Královéhradecký kraj
+Czech Republic	LI	Liberecký kraj
+Czech Republic	MO	Moravskoslezský kraj
+Czech Republic	OL	Olomoucký kraj
+Czech Republic	PA	Pardubický kraj
+Czech Republic	PL	Plzeňský kraj
+Czech Republic	PR	Praha, hlavní město
+Czech Republic	ST	Středočeský kraj
+Czech Republic	VY	Vysočina
+Czech Republic	ZL	Zlínský kraj
+Czech Republic	US	Ústecký kraj
+Denmark	84	Hovedstaden
+Denmark	82	Midtjylland
+Denmark	81	Nordjylland
+Denmark	85	Sjælland
+Denmark	83	Syddanmark
+Djibouti	AS	Ali Sabieh
+Djibouti	AR	Arta
+Djibouti	DI	Dikhil
+Djibouti	DJ	Djibouti
+Djibouti	OB	Obock
+Djibouti	TA	Tadjourah
+Dominica	2	Saint Andrew
+Dominica	3	Saint David
+Dominica	4	Saint George
+Dominica	5	Saint John
+Dominica	6	Saint Joseph
+Dominica	7	Saint Luke
+Dominica	8	Saint Mark
+Dominica	9	Saint Patrick
+Dominica	10	Saint Paul
+Dominica	11	Saint Peter
+Dominican Republic	33	Cibao Nordeste
+Dominican Republic	34	Cibao Noroeste
+Dominican Republic	35	Cibao Norte
+Dominican Republic	36	Cibao Sur
+Dominican Republic	37	El Valle
+Dominican Republic	38	Enriquillo
+Dominican Republic	39	Higuamo
+Dominican Republic	40	Ozama
+Dominican Republic	41	Valdesia
+Dominican Republic	42	Yuma
+Ecuador	A	Azuay
+Ecuador	B	Bolívar
+Ecuador	C	Carchi
+Ecuador	F	Cañar
+Ecuador	H	Chimborazo
+Ecuador	X	Cotopaxi
+Ecuador	O	El Oro
+Ecuador	E	Esmeraldas
+Ecuador	W	Galápagos
+Ecuador	G	Guayas
+Ecuador	I	Imbabura
+Ecuador	L	Loja
+Ecuador	R	Los Ríos
+Ecuador	M	Manabí
+Ecuador	S	Morona-Santiago
+Ecuador	N	Napo
+Ecuador	D	Orellana
+Ecuador	Y	Pastaza
+Ecuador	P	Pichincha
+Ecuador	SE	Santa Elena
+Ecuador	SD	Santo Domingo de los Tsáchilas
+Ecuador	U	Sucumbíos
+Ecuador	T	Tungurahua
+Ecuador	Z	Zamora-Chinchipe
+Egypt	DK	Ad Daqahlīyah
+Egypt	BA	Al Baḩr al Aḩmar
+Egypt	BH	Al Buḩayrah
+Egypt	FYM	Al Fayyūm
+Egypt	GH	Al Gharbīyah
+Egypt	ALX	Al Iskandarīyah
+Egypt	IS	Al Ismāٰīlīyah
+Egypt	GZ	Al Jīzah
+Egypt	MN	Al Minyā
+Egypt	MNF	Al Minūfīyah
+Egypt	KB	Al Qalyūbīyah
+Egypt	C	Al Qāhirah
+Egypt	LX	Al Uqşur
+Egypt	WAD	Al Wādī al Jadīd
+Egypt	SUZ	As Suways
+Egypt	SU	As Sādis min Uktūbar
+Egypt	SHR	Ash Sharqīyah
+Egypt	ASN	Aswān
+Egypt	AST	Asyūţ
+Egypt	BNS	Banī Suwayf
+Egypt	PTS	Būr Saٰīd
+Egypt	DT	Dumyāţ
+Egypt	JS	Janūb Sīnā'
+Egypt	KFS	Kafr ash Shaykh
+Egypt	MT	Maţrūḩ
+Egypt	KN	Qinā
+Egypt	SIN	Shamāl Sīnā'
+Egypt	SHG	Sūhāj
+Egypt	HU	Ḩulwān
+El Salvador	AH	Ahuachapán
+El Salvador	CA	Cabañas
+El Salvador	CH	Chalatenango
+El Salvador	CU	Cuscatlán
+El Salvador	LI	La Libertad
+El Salvador	PA	La Paz
+El Salvador	UN	La Unión
+El Salvador	MO	Morazán
+El Salvador	SM	San Miguel
+El Salvador	SS	San Salvador
+El Salvador	SV	San Vicente
+El Salvador	SA	Santa Ana
+El Salvador	SO	Sonsonate
+El Salvador	US	Usulután
+Equatorial Guinea	C	Región Continental
+Equatorial Guinea	I	Región Insular
+Eritrea	MA	Al Awsaţ
+Eritrea	DU	Al Janūbĩ
+Eritrea	AN	Ansabā
+Eritrea	DK	Janūbī al Baḩrī al Aḩmar
+Eritrea	GB	Qāsh-Barkah
+Eritrea	SK	Shimālī al Baḩrī al Aḩmar
+Estonia	37	Harjumaa
+Estonia	39	Hiiumaa
+Estonia	44	Ida-Virumaa
+Estonia	51	Järvamaa
+Estonia	49	Jõgevamaa
+Estonia	59	Lääne-Virumaa
+Estonia	57	Läänemaa
+Estonia	67	Pärnumaa
+Estonia	65	Põlvamaa
+Estonia	70	Raplamaa
+Estonia	74	Saaremaa
+Estonia	78	Tartumaa
+Estonia	82	Valgamaa
+Estonia	84	Viljandimaa
+Estonia	86	Võrumaa
+Ethiopia	BE	Bīnshangul Gumuz
+Ethiopia	DD	Dirē Dawa
+Ethiopia	GA	Gambēla Hizboch
+Ethiopia	HA	Hārerī Hizb
+Ethiopia	OR	Oromīya
+Ethiopia	SO	Sumalē
+Ethiopia	TI	Tigray
+Ethiopia	SN	YeDebub Bihēroch Bihēreseboch na Hizboch
+Ethiopia	AA	Ādīs Ābeba
+Ethiopia	AF	Āfar
+Ethiopia	AM	Āmara
+Fiji	C	Central
+Fiji	E	Eastern
+Fiji	N	Northern
+Fiji	R	Rotuma
+Fiji	W	Western
+Finland	1	Ahvenanmaan maakunta
+Finland	2	Etelä-Karjala
+Finland	3	Etelä-Pohjanmaa
+Finland	4	Etelä-Savo
+Finland	5	Kainuu
+Finland	6	Kanta-Häme
+Finland	7	Keski-Pohjanmaa
+Finland	8	Keski-Suomi
+Finland	9	Kymenlaakso
+Finland	10	Lappi
+Finland	11	Pirkanmaa
+Finland	12	Pohjanmaa
+Finland	13	Pohjois-Karjala
+Finland	14	Pohjois-Pohjanmaa
+Finland	15	Pohjois-Savo
+Finland	16	Päijät-Häme
+Finland	17	Satakunta
+Finland	18	Uusimaa
+Finland	19	Varsinais-Suomi
+France	A	Alsace
+France	B	Aquitaine
+France	C	Auvergne
+France	E	Brittany
+France	D	Burgundy
+France	F	Centre-Val de Loire
+France	G	Champagne-Ardenne
+France	H	Corsica
+France	I	Franche-Comté
+France	K	Languedoc-Roussillon
+France	L	Limousin
+France	M	Lorraine
+France	P	Lower Normandy
+France	N	Midi-Pyrénées
+France	O	Nord-Pas-de-Calais
+France	R	Pays de la Loire
+France	S	Picardy
+France	T	Poitou-Charentes
+France	U	Provence-Alpes-Côte d'Azur
+France	V	Rhône-Alpes
+France	Q	Upper Normandy
+France	J	Île-de-France
+Gabon	1	Estuaire
+Gabon	2	Haut-Ogooué
+Gabon	3	Moyen-Ogooué
+Gabon	4	Ngounié
+Gabon	5	Nyanga
+Gabon	6	Ogooué-Ivindo
+Gabon	7	Ogooué-Lolo
+Gabon	8	Ogooué-Maritime
+Gabon	9	Woleu-Ntem
+The Gambia	B	Banjul
+The Gambia	M	Central River
+The Gambia	L	Lower River
+The Gambia	N	North Bank
+The Gambia	U	Upper River
+The Gambia	W	Western
+Georgia	AB	Abkhazia
+Georgia	AJ	Ajaria
+Georgia	GU	Guria
+Georgia	IM	Imereti
+Georgia	KA	K'akheti
+Georgia	KK	Kvemo Kartli
+Georgia	MM	Mtskheta-Mtianeti
+Georgia	RL	Rach'a-Lechkhumi-Kvemo Svaneti
+Georgia	SZ	Samegrelo-Zemo Svaneti
+Georgia	SJ	Samtskhe-Javakheti
+Georgia	SK	Shida Kartli
+Georgia	TB	Tbilisi
+Germany	BW	Baden-Württemberg
+Germany	BY	Bayern
+Germany	BE	Berlin
+Germany	BB	Brandenburg
+Germany	HB	Bremen
+Germany	HH	Hamburg
+Germany	HE	Hessen
+Germany	MV	Mecklenburg-Vorpommern
+Germany	NI	Niedersachsen
+Germany	NW	Nordrhein-Westfalen
+Germany	RP	Rheinland-Pfalz
+Germany	SL	Saarland
+Germany	SN	Sachsen
+Germany	ST	Sachsen-Anhalt
+Germany	SH	Schleswig-Holstein
+Germany	TH	Thüringen
+Ghana	AH	Ashanti
+Ghana	BA	Brong-Ahafo
+Ghana	CP	Central
+Ghana	EP	Eastern
+Ghana	AA	Greater Accra
+Ghana	NP	Northern
+Ghana	UE	Upper East
+Ghana	UW	Upper West
+Ghana	TV	Volta
+Ghana	WP	Western
+Greece	A	Anatoliki Makedonia kai Thraki
+Greece	I	Attiki
+Greece	G	Dytiki Ellada
+Greece	C	Dytiki Makedonia
+Greece	F	Ionia Nisia
+Greece	D	Ipeiros
+Greece	B	Kentriki Makedonia
+Greece	M	Kriti
+Greece	L	Notio Aigaio
+Greece	J	Peloponnisos
+Greece	H	Sterea Ellada
+Greece	E	Thessalia
+Greece	K	Voreio Aigaio
+Greenland	KU	Kommune Kujalleq
+Greenland	SM	Kommuneqarfik Sermersooq
+Greenland	QA	Qaasuitsup Kommunia
+Greenland	QE	Qeqqata Kommunia
+Grenada	1	Saint Andrew
+Grenada	2	Saint David
+Grenada	3	Saint George
+Grenada	4	Saint John
+Grenada	5	Saint Mark
+Grenada	6	Saint Patrick
+Grenada	10	Southern Grenadine Islands
+Guatemala	AV	Alta Verapaz
+Guatemala	BV	Baja Verapaz
+Guatemala	CM	Chimaltenango
+Guatemala	CQ	Chiquimula
+Guatemala	PR	El Progreso
+Guatemala	ES	Escuintla
+Guatemala	GU	Guatemala
+Guatemala	HU	Huehuetenango
+Guatemala	IZ	Izabal
+Guatemala	JA	Jalapa
+Guatemala	JU	Jutiapa
+Guatemala	PE	Petén
+Guatemala	QZ	Quetzaltenango
+Guatemala	QC	Quiché
+Guatemala	RE	Retalhuleu
+Guatemala	SA	Sacatepéquez
+Guatemala	SM	San Marcos
+Guatemala	SR	Santa Rosa
+Guatemala	SO	Sololá
+Guatemala	SU	Suchitepéquez
+Guatemala	TO	Totonicapán
+Guatemala	ZA	Zacapa
+Guinea	B	Boké
+Guinea	C	Conakry
+Guinea	F	Faranah
+Guinea	K	Kankan
+Guinea	D	Kindia
+Guinea	L	Labé
+Guinea	M	Mamou
+Guinea	N	Nzérékoré
+Guinea-Bissau	L	Leste
+Guinea-Bissau	N	Norte
+Guinea-Bissau	S	Sul
+Guyana	BA	Barima-Waini
+Guyana	CU	Cuyuni-Mazaruni
+Guyana	DE	Demerara-Mahaica
+Guyana	EB	East Berbice-Corentyne
+Guyana	ES	Essequibo Islands-West Demerara
+Guyana	MA	Mahaica-Berbice
+Guyana	PM	Pomeroon-Supenaam
+Guyana	PT	Potaro-Siparuni
+Guyana	UD	Upper Demerara-Berbice
+Guyana	UT	Upper Takutu-Upper Essequibo
+Haiti	AR	Artibonite
+Haiti	CE	Centre
+Haiti	GA	Grande-Anse
+Haiti	NI	Nippes
+Haiti	ND	Nord
+Haiti	NE	Nord-Est
+Haiti	NO	Nord-Ouest
+Haiti	OU	Ouest
+Haiti	SD	Sud
+Haiti	SE	Sud-Est
+Honduras	AT	Atlántida
+Honduras	CH	Choluteca
+Honduras	CL	Colón
+Honduras	CM	Comayagua
+Honduras	CP	Copán
+Honduras	CR	Cortés
+Honduras	EP	El Paraíso
+Honduras	FM	Francisco Morazán
+Honduras	GD	Gracias a Dios
+Honduras	IN	Intibucá
+Honduras	IB	Islas de la Bahía
+Honduras	LP	La Paz
+Honduras	LE	Lempira
+Honduras	OC	Ocotepeque
+Honduras	OL	Olancho
+Honduras	SB	Santa Bárbara
+Honduras	VA	Valle
+Honduras	YO	Yoro
+Hungary	BA	Baranya
+Hungary	BZ	Borsod-Abaúj-Zemplén
+Hungary	BU	Budapest
+Hungary	BK	Bács-Kiskun
+Hungary	BE	Békés
+Hungary	BC	Békéscsaba
+Hungary	CS	Csongrád
+Hungary	DE	Debrecen
+Hungary	DU	Dunaújváros
+Hungary	EG	Eger
+Hungary	FE	Fejér
+Hungary	GY	Győr
+Hungary	GS	Győr-Moson-Sopron
+Hungary	HB	Hajdú-Bihar
+Hungary	HE	Heves
+Hungary	HV	Hódmezővásárhely
+Hungary	JN	Jász-Nagykun-Szolnok
+Hungary	KV	Kaposvár
+Hungary	KM	Kecskemét
+Hungary	KE	Komárom-Esztergom
+Hungary	MI	Miskolc
+Hungary	NK	Nagykanizsa
+Hungary	NY	Nyíregyháza
+Hungary	NO	Nógrád
+Hungary	PE	Pest
+Hungary	PS	Pécs
+Hungary	ST	Salgótarján
+Hungary	SO	Somogy
+Hungary	SN	Sopron
+Hungary	SZ	Szabolcs-Szatmár-Bereg
+Hungary	SD	Szeged
+Hungary	SS	Szekszárd
+Hungary	SK	Szolnok
+Hungary	SH	Szombathely
+Hungary	SF	Székesfehérvár
+Hungary	TB	Tatabánya
+Hungary	TO	Tolna
+Hungary	VA	Vas
+Hungary	VE	Veszprém
+Hungary	VM	Veszprém
+Hungary	ZA	Zala
+Hungary	ZE	Zalaegerszeg
+Hungary	ER	Érd
+Iceland	7	Austurland
+Iceland	1	Höfuðborgarsvæði utan Reykjavíkur
+Iceland	6	Norðurland eystra
+Iceland	5	Norðurland vestra
+Iceland	0	Reykjavík
+Iceland	8	Suðurland
+Iceland	2	Suðurnes
+Iceland	4	Vestfirðir
+Iceland	3	Vesturland
+India	AN	Andaman and Nicobar Islands
+India	CH	Chandigarh
+India	DN	Dadra and Nagar Haveli
+India	DD	Daman and Diu
+India	DL	Delhi
+India	LD	Lakshadweep
+India	PY	Puducherry
+India	AP	Andhra Pradesh
+India	AR	Arunachal Pradesh
+India	AS	Assam
+India	BR	Bihar
+India	CT	Chhattisgarh
+India	GA	Goa
+India	GJ	Gujarat
+India	HR	Haryana
+India	HP	Himachal Pradesh
+India	JK	Jammu and Kashmir
+India	JH	Jharkhand
+India	KA	Karnataka
+India	KL	Kerala
+India	MP	Madhya Pradesh
+India	MH	Maharashtra
+India	MN	Manipur
+India	ML	Meghalaya
+India	MZ	Mizoram
+India	NL	Nagaland
+India	OR	Odisha
+India	PB	Punjab
+India	RJ	Rajasthan
+India	SK	Sikkim
+India	TN	Tamil Nadu
+India	TG	Telangana
+India	TR	Tripura
+India	UP	Uttar Pradesh
+India	UT	Uttarakhand
+India	WB	West Bengal
+Indonesia	JW	Jawa
+Indonesia	KA	Kalimantan
+Indonesia	ML	Maluku
+Indonesia	NU	Nusa Tenggara
+Indonesia	PP	Papua
+Indonesia	SL	Sulawesi
+Indonesia	SM	Sumatera
+Ivory Coast	6	18 Montagnes
+Ivory Coast	16	Agnébi
+Ivory Coast	17	Bafing
+Ivory Coast	9	Bas-Sassandra
+Ivory Coast	10	Denguélé
+Ivory Coast	18	Fromager
+Ivory Coast	2	Haut-Sassandra
+Ivory Coast	7	Lacs
+Ivory Coast	1	Lagunes
+Ivory Coast	12	Marahoué
+Ivory Coast	19	Moyen-Cavally
+Ivory Coast	5	Moyen-Comoé
+Ivory Coast	11	Nzi-Comoé
+Ivory Coast	3	Savanes
+Ivory Coast	15	Sud-Bandama
+Ivory Coast	13	Sud-Comoé
+Ivory Coast	4	Vallée du Bandama
+Ivory Coast	14	Worodougou
+Ivory Coast	8	Zanzan
+Iran	32	Alborz
+Iran	3	Ardabīl
+Iran	6	Būshehr
+Iran	8	Chahār Maḩāll va Bakhtīārī
+Iran	4	Eşfahān
+Iran	14	Fārs
+Iran	27	Golestān
+Iran	19	Gīlān
+Iran	24	Hamadān
+Iran	23	Hormozgān
+Iran	15	Kermān
+Iran	17	Kermānshāh
+Iran	29	Khorāsān-e Janūbī
+Iran	30	Khorāsān-e Razavī
+Iran	31	Khorāsān-e Shemālī
+Iran	10	Khūzestān
+Iran	18	Kohgīlūyeh va Būyer Aḩmad
+Iran	16	Kordestān
+Iran	20	Lorestān
+Iran	22	Markazī
+Iran	21	Māzandarān
+Iran	28	Qazvīn
+Iran	26	Qom
+Iran	12	Semnān
+Iran	13	Sīstān va Balūchestān
+Iran	7	Tehrān
+Iran	25	Yazd
+Iran	11	Zanjān
+Iran	2	Āz̄arbāyjān-e Gharbī
+Iran	1	Āz̄arbāyjān-e Sharqī
+Iran	5	Īlām
+Iraq	AN	Al Anbār
+Iraq	BA	Al Başrah
+Iraq	MU	Al Muthanná
+Iraq	QA	Al Qādisīyah
+Iraq	NA	An Najaf
+Iraq	AR	Arbīl
+Iraq	SU	As Sulaymānīyah
+Iraq	TS	At Ta'mīm
+Iraq	BG	Baghdād
+Iraq	BB	Bābil
+Iraq	DA	Dahūk
+Iraq	DQ	Dhī Qār
+Iraq	DI	Diyālá
+Iraq	KA	Karbalā'
+Iraq	MA	Maysān
+Iraq	NI	Nīnawá
+Iraq	WA	Wāsiţ
+Iraq	SD	Şalāḩ ad Dīn
+Republic of Ireland	C	Connaught
+Republic of Ireland	L	Leinster
+Republic of Ireland	M	Munster
+Republic of Ireland	U	Ulster
+Israel	D	HaDarom
+Israel	M	HaMerkaz
+Israel	Z	HaTsafon
+Israel	HA	H̱efa
+Israel	TA	Tel-Aviv
+Israel	JM	Yerushalayim
+Italy	65	Abruzzo
+Italy	77	Basilicata
+Italy	78	Calabria
+Italy	72	Campania
+Italy	45	Emilia-Romagna
+Italy	36	Friuli-Venezia Giulia
+Italy	62	Lazio
+Italy	42	Liguria
+Italy	25	Lombardia
+Italy	57	Marche
+Italy	67	Molise
+Italy	21	Piemonte
+Italy	75	Puglia
+Italy	88	Sardegna
+Italy	82	Sicilia
+Italy	52	Toscana
+Italy	32	Trentino-Alto Adige
+Italy	55	Umbria
+Italy	23	Valle d'Aosta
+Italy	34	Veneto
+Jamaica	13	Clarendon
+Jamaica	9	Hanover
+Jamaica	1	Kingston
+Jamaica	12	Manchester
+Jamaica	4	Portland
+Jamaica	2	Saint Andrew
+Jamaica	6	Saint Ann
+Jamaica	14	Saint Catherine
+Jamaica	11	Saint Elizabeth
+Jamaica	8	Saint James
+Jamaica	5	Saint Mary
+Jamaica	3	Saint Thomas
+Jamaica	7	Trelawny
+Jamaica	10	Westmoreland
+Japan	23	Aiti
+Japan	5	Akita
+Japan	2	Aomori
+Japan	38	Ehime
+Japan	21	Gihu
+Japan	10	Gunma
+Japan	34	Hirosima
+Japan	1	Hokkaidô
+Japan	18	Hukui
+Japan	40	Hukuoka
+Japan	7	Hukusima
+Japan	28	Hyôgo
+Japan	8	Ibaraki
+Japan	17	Isikawa
+Japan	3	Iwate
+Japan	37	Kagawa
+Japan	46	Kagosima
+Japan	14	Kanagawa
+Japan	43	Kumamoto
+Japan	26	Kyôto
+Japan	39	Kôti
+Japan	24	Mie
+Japan	4	Miyagi
+Japan	45	Miyazaki
+Japan	20	Nagano
+Japan	42	Nagasaki
+Japan	29	Nara
+Japan	15	Niigata
+Japan	33	Okayama
+Japan	47	Okinawa
+Japan	41	Saga
+Japan	11	Saitama
+Japan	25	Siga
+Japan	32	Simane
+Japan	22	Sizuoka
+Japan	12	Tiba
+Japan	36	Tokusima
+Japan	9	Totigi
+Japan	31	Tottori
+Japan	16	Toyama
+Japan	13	Tôkyô
+Japan	30	Wakayama
+Japan	6	Yamagata
+Japan	35	Yamaguti
+Japan	19	Yamanasi
+Japan	44	Ôita
+Japan	27	Ôsaka
+Jordan	BA	Al Balqā'
+Jordan	AQ	Al ʽAqabah
+Jordan	AZ	Az Zarqā'
+Jordan	AT	Aţ Ţafīlah
+Jordan	IR	Irbid
+Jordan	JA	Jerash
+Jordan	KA	Karak
+Jordan	MN	Ma'ān
+Jordan	MA	Mafraq
+Jordan	MD	Mādabā
+Jordan	AJ	ʽAjlūn
+Jordan	AM	‘Ammān
+Kazakhstan	ALA	Almaty
+Kazakhstan	ALM	Almaty oblysy
+Kazakhstan	AKM	Aqmola oblysy
+Kazakhstan	AKT	Aqtöbe oblysy
+Kazakhstan	AST	Astana
+Kazakhstan	ATY	Atyraū oblysy
+Kazakhstan	ZAP	Batys Qazaqstan oblysy
+Kazakhstan	MAN	Mangghystaū oblysy
+Kazakhstan	YUZ	Ongtüstik Qazaqstan oblysy
+Kazakhstan	PAV	Pavlodar oblysy
+Kazakhstan	KAR	Qaraghandy oblysy
+Kazakhstan	KUS	Qostanay oblysy
+Kazakhstan	KZY	Qyzylorda oblysy
+Kazakhstan	VOS	Shyghys Qazaqstan oblysy
+Kazakhstan	SEV	Soltüstik Qazaqstan oblysy
+Kazakhstan	ZHA	Zhambyl oblysy
+Kenya	200	Central
+Kenya	300	Coast
+Kenya	400	Eastern
+Kenya	110	Nairobi
+Kenya	500	North-Eastern
+Kenya	600	Nyanza
+Kenya	700	Rift Valley
+Kenya	800	Western
+Kiribati	G	Gilbert Islands
+Kiribati	L	Line Islands
+Kiribati	P	Phoenix Islands
+Kuwait	AH	Al Aḩmadi
+Kuwait	FA	Al Farwānīyah
+Kuwait	JA	Al Jahrā’
+Kuwait	KU	Al Kuwayt
+Kuwait	MU	Mubārak al Kabīr
+Kuwait	HA	Ḩawallī
+Kyrgyzstan	B	Batken
+Kyrgyzstan	GB	Bishkek
+Kyrgyzstan	C	Chü
+Kyrgyzstan	J	Jalal-Abad
+Kyrgyzstan	N	Naryn
+Kyrgyzstan	O	Osh
+Kyrgyzstan	T	Talas
+Kyrgyzstan	Y	Ysyk-Köl
+Laos	AT	Attapu
+Laos	BK	Bokèo
+Laos	BL	Bolikhamxai
+Laos	CH	Champasak
+Laos	HO	Houaphan
+Laos	KH	Khammouan
+Laos	LM	Louang Namtha
+Laos	LP	Louangphabang
+Laos	OU	Oudômxai
+Laos	PH	Phôngsali
+Laos	SL	Salavan
+Laos	SV	Savannakhét
+Laos	VT	Vientiane
+Laos	VI	Vientiane
+Laos	XA	Xaignabouli
+Laos	XN	Xaisômboun
+Laos	XI	Xiangkhoang
+Laos	XE	Xékong
+Latvia	1	Aglonas novads
+Latvia	2	Aizkraukles novads
+Latvia	3	Aizputes novads
+Latvia	4	Aknīstes novads
+Latvia	5	Alojas novads
+Latvia	6	Alsungas novads
+Latvia	7	Alūksnes novads
+Latvia	8	Amatas novads
+Latvia	9	Apes novads
+Latvia	10	Auces novads
+Latvia	12	Babītes novads
+Latvia	13	Baldones novads
+Latvia	14	Baltinavas novads
+Latvia	15	Balvu novads
+Latvia	16	Bauskas novads
+Latvia	17	Beverīnas novads
+Latvia	18	Brocēnu novads
+Latvia	19	Burtnieku novads
+Latvia	20	Carnikavas novads
+Latvia	21	Cesvaines novads
+Latvia	23	Ciblas novads
+Latvia	22	Cēsu novads
+Latvia	24	Dagdas novads
+Latvia	DGV	Daugavpils
+Latvia	25	Daugavpils novads
+Latvia	26	Dobeles novads
+Latvia	27	Dundagas novads
+Latvia	28	Durbes novads
+Latvia	29	Engures novads
+Latvia	31	Garkalnes novads
+Latvia	32	Grobiņas novads
+Latvia	33	Gulbenes novads
+Latvia	34	Iecavas novads
+Latvia	35	Ikšķiles novads
+Latvia	36	Ilūkstes novads
+Latvia	37	Inčukalna novads
+Latvia	38	Jaunjelgavas novads
+Latvia	39	Jaunpiebalgas novads
+Latvia	40	Jaunpils novads
+Latvia	JEL	Jelgava
+Latvia	41	Jelgavas novads
+Latvia	JKB	Jēkabpils
+Latvia	42	Jēkabpils novads
+Latvia	JUR	Jūrmala
+Latvia	43	Kandavas novads
+Latvia	45	Kocēnu novads
+Latvia	46	Kokneses novads
+Latvia	48	Krimuldas novads
+Latvia	49	Krustpils novads
+Latvia	47	Krāslavas novads
+Latvia	50	Kuldīgas novads
+Latvia	44	Kārsavas novads
+Latvia	53	Lielvārdes novads
+Latvia	LPX	Liepāja
+Latvia	54	Limbažu novads
+Latvia	57	Lubānas novads
+Latvia	58	Ludzas novads
+Latvia	55	Līgatnes novads
+Latvia	56	Līvānu novads
+Latvia	59	Madonas novads
+Latvia	60	Mazsalacas novads
+Latvia	61	Mālpils novads
+Latvia	62	Mārupes novads
+Latvia	63	Mērsraga novads
+Latvia	64	Naukšēnu novads
+Latvia	65	Neretas novads
+Latvia	66	Nīcas novads
+Latvia	67	Ogres novads
+Latvia	68	Olaines novads
+Latvia	69	Ozolnieku novads
+Latvia	73	Preiļu novads
+Latvia	74	Priekules novads
+Latvia	75	Priekuļu novads
+Latvia	70	Pārgaujas novads
+Latvia	71	Pāvilostas novads
+Latvia	72	Pļaviņu novads
+Latvia	76	Raunas novads
+Latvia	78	Riebiņu novads
+Latvia	79	Rojas novads
+Latvia	80	Ropažu novads
+Latvia	81	Rucavas novads
+Latvia	82	Rugāju novads
+Latvia	83	Rundāles novads
+Latvia	REZ	Rēzekne
+Latvia	77	Rēzeknes novads
+Latvia	RIX	Rīga
+Latvia	84	Rūjienas novads
+Latvia	86	Salacgrīvas novads
+Latvia	85	Salas novads
+Latvia	87	Salaspils novads
+Latvia	88	Saldus novads
+Latvia	89	Saulkrastu novads
+Latvia	91	Siguldas novads
+Latvia	93	Skrundas novads
+Latvia	92	Skrīveru novads
+Latvia	94	Smiltenes novads
+Latvia	95	Stopiņu novads
+Latvia	96	Strenču novads
+Latvia	90	Sējas novads
+Latvia	97	Talsu novads
+Latvia	99	Tukuma novads
+Latvia	98	Tērvetes novads
+Latvia	100	Vaiņodes novads
+Latvia	101	Valkas novads
+Latvia	VMR	Valmiera
+Latvia	102	Varakļānu novads
+Latvia	104	Vecpiebalgas novads
+Latvia	105	Vecumnieku novads
+Latvia	VEN	Ventspils
+Latvia	106	Ventspils novads
+Latvia	107	Viesītes novads
+Latvia	108	Viļakas novads
+Latvia	109	Viļānu novads
+Latvia	103	Vārkavas novads
+Latvia	110	Zilupes novads
+Latvia	11	Ādažu novads
+Latvia	30	Ērgļu novads
+Latvia	51	Ķeguma novads
+Latvia	52	Ķekavas novads
+Lebanon	AK	Aakkâr
+Lebanon	BH	Baalbek-Hermel
+Lebanon	BA	Beyrouth
+Lebanon	BI	Béqaa
+Lebanon	AS	Liban-Nord
+Lebanon	JA	Liban-Sud
+Lebanon	JL	Mont-Liban
+Lebanon	NA	Nabatîyé
+Lesotho	D	Berea
+Lesotho	B	Butha-Buthe
+Lesotho	C	Leribe
+Lesotho	E	Mafeteng
+Lesotho	A	Maseru
+Lesotho	F	Mohale's Hoek
+Lesotho	J	Mokhotlong
+Lesotho	H	Qacha's Nek
+Lesotho	G	Quthing
+Lesotho	K	Thaba-Tseka
+Liberia	BM	Bomi
+Liberia	BG	Bong
+Liberia	GP	Gbarpolu
+Liberia	GB	Grand Bassa
+Liberia	CM	Grand Cape Mount
+Liberia	GG	Grand Gedeh
+Liberia	GK	Grand Kru
+Liberia	LO	Lofa
+Liberia	MG	Margibi
+Liberia	MY	Maryland
+Liberia	MO	Montserrado
+Liberia	NI	Nimba
+Liberia	RG	River Gee
+Liberia	RI	Rivercess
+Liberia	SI	Sinoe
+Libya	BU	Al Buţnān
+Libya	JA	Al Jabal al Akhḑar
+Libya	JG	Al Jabal al Gharbī
+Libya	JI	Al Jifārah
+Libya	JU	Al Jufrah
+Libya	KF	Al Kufrah
+Libya	MJ	Al Marj
+Libya	MB	Al Marqab
+Libya	WA	Al Wāḩāt
+Libya	NQ	An Nuqaţ al Khams
+Libya	ZA	Az Zāwiyah
+Libya	BA	Banghāzī
+Libya	DR	Darnah
+Libya	GT	Ghāt
+Libya	MI	Mişrātah
+Libya	MQ	Murzuq
+Libya	NL	Nālūt
+Libya	SB	Sabhā
+Libya	SR	Surt
+Libya	WD	Wādī al Ḩayāt
+Libya	WS	Wādī ash Shāţiʾ
+Libya	TB	Ţarābulus
+Liechtenstein	1	Balzers
+Liechtenstein	2	Eschen
+Liechtenstein	3	Gamprin
+Liechtenstein	4	Mauren
+Liechtenstein	5	Planken
+Liechtenstein	6	Ruggell
+Liechtenstein	7	Schaan
+Liechtenstein	8	Schellenberg
+Liechtenstein	9	Triesen
+Liechtenstein	10	Triesenberg
+Liechtenstein	11	Vaduz
+Lithuania	AL	Alytaus Apskritis
+Lithuania	KU	Kauno Apskritis
+Lithuania	KL	Klaipėdos Apskritis
+Lithuania	MR	Marijampolės Apskritis
+Lithuania	PN	Panevėžio Apskritis
+Lithuania	TA	Tauragės Apskritis
+Lithuania	TE	Telšių Apskritis
+Lithuania	UT	Utenos Apskritis
+Lithuania	VL	Vilniaus Apskritis
+Lithuania	SA	Šiaulių Apskritis
+Luxembourg	D	Diekirch
+Luxembourg	G	Grevenmacher
+Luxembourg	L	Luxembourg
+Republic of Macedonia	1	Aerodrom
+Republic of Macedonia	2	Aračinovo
+Republic of Macedonia	3	Berovo
+Republic of Macedonia	4	Bitola
+Republic of Macedonia	5	Bogdanci
+Republic of Macedonia	6	Bogovinje
+Republic of Macedonia	7	Bosilovo
+Republic of Macedonia	8	Brvenica
+Republic of Macedonia	9	Butel
+Republic of Macedonia	77	Centar
+Republic of Macedonia	78	Centar Župa
+Republic of Macedonia	21	Debar
+Republic of Macedonia	22	Debarca
+Republic of Macedonia	23	Delčevo
+Republic of Macedonia	25	Demir Hisar
+Republic of Macedonia	24	Demir Kapija
+Republic of Macedonia	26	Dojran
+Republic of Macedonia	27	Dolneni
+Republic of Macedonia	28	Drugovo
+Republic of Macedonia	17	Gazi Baba
+Republic of Macedonia	18	Gevgelija
+Republic of Macedonia	29	Gjorče Petrov
+Republic of Macedonia	19	Gostivar
+Republic of Macedonia	20	Gradsko
+Republic of Macedonia	34	Ilinden
+Republic of Macedonia	35	Jegunovce
+Republic of Macedonia	37	Karbinci
+Republic of Macedonia	38	Karpoš
+Republic of Macedonia	36	Kavadarci
+Republic of Macedonia	39	Kisela Voda
+Republic of Macedonia	40	Kičevo
+Republic of Macedonia	41	Konče
+Republic of Macedonia	42	Kočani
+Republic of Macedonia	43	Kratovo
+Republic of Macedonia	44	Kriva Palanka
+Republic of Macedonia	45	Krivogaštani
+Republic of Macedonia	46	Kruševo
+Republic of Macedonia	47	Kumanovo
+Republic of Macedonia	48	Lipkovo
+Republic of Macedonia	49	Lozovo
+Republic of Macedonia	51	Makedonska Kamenica
+Republic of Macedonia	52	Makedonski Brod
+Republic of Macedonia	50	Mavrovo i Rostuša
+Republic of Macedonia	53	Mogila
+Republic of Macedonia	54	Negotino
+Republic of Macedonia	55	Novaci
+Republic of Macedonia	56	Novo Selo
+Republic of Macedonia	58	Ohrid
+Republic of Macedonia	57	Oslomej
+Republic of Macedonia	60	Pehčevo
+Republic of Macedonia	59	Petrovec
+Republic of Macedonia	61	Plasnica
+Republic of Macedonia	62	Prilep
+Republic of Macedonia	63	Probištip
+Republic of Macedonia	64	Radoviš
+Republic of Macedonia	65	Rankovce
+Republic of Macedonia	66	Resen
+Republic of Macedonia	67	Rosoman
+Republic of Macedonia	68	Saraj
+Republic of Macedonia	70	Sopište
+Republic of Macedonia	71	Staro Nagoričane
+Republic of Macedonia	72	Struga
+Republic of Macedonia	73	Strumica
+Republic of Macedonia	74	Studeničani
+Republic of Macedonia	69	Sveti Nikole
+Republic of Macedonia	75	Tearce
+Republic of Macedonia	76	Tetovo
+Republic of Macedonia	10	Valandovo
+Republic of Macedonia	11	Vasilevo
+Republic of Macedonia	13	Veles
+Republic of Macedonia	12	Vevčani
+Republic of Macedonia	14	Vinica
+Republic of Macedonia	15	Vraneštica
+Republic of Macedonia	16	Vrapčište
+Republic of Macedonia	31	Zajas
+Republic of Macedonia	32	Zelenikovo
+Republic of Macedonia	33	Zrnovci
+Republic of Macedonia	79	Čair
+Republic of Macedonia	80	Čaška
+Republic of Macedonia	81	Češinovo-Obleševo
+Republic of Macedonia	82	Čučer Sandevo
+Republic of Macedonia	83	Štip
+Republic of Macedonia	84	Šuto Orizari
+Republic of Macedonia	30	Želino
+Madagascar	T	Antananarivo
+Madagascar	D	Antsiranana
+Madagascar	F	Fianarantsoa
+Madagascar	M	Mahajanga
+Madagascar	A	Toamasina
+Madagascar	U	Toliara
+Malawi	C	Central Region
+Malawi	N	Northern Region
+Malawi	S	Southern Region
+Malaysia	14	Wilayah Persekutuan Kuala Lumpur
+Malaysia	15	Wilayah Persekutuan Labuan
+Malaysia	16	Wilayah Persekutuan Putrajaya
+Malaysia	1	Johor
+Malaysia	2	Kedah
+Malaysia	3	Kelantan
+Malaysia	4	Melaka
+Malaysia	5	Negeri Sembilan
+Malaysia	6	Pahang
+Malaysia	8	Perak
+Malaysia	9	Perlis
+Malaysia	7	Pulau Pinang
+Malaysia	12	Sabah
+Malaysia	13	Sarawak
+Malaysia	10	Selangor
+Malaysia	11	Terengganu
+Maldives	CE	Central
+Maldives	MLE	Male
+Maldives	NO	North
+Maldives	NC	North Central
+Maldives	SU	South
+Maldives	SC	South Central
+Maldives	UN	Upper North
+Maldives	US	Upper South
+Mali	BKO	Bamako
+Mali	7	Gao
+Mali	1	Kayes
+Mali	8	Kidal
+Mali	2	Koulikoro
+Mali	5	Mopti
+Mali	3	Sikasso
+Mali	4	Ségou
+Mali	6	Tombouctou
+Malta	1	Attard
+Malta	2	Balzan
+Malta	3	Birgu
+Malta	4	Birkirkara
+Malta	5	Birżebbuġa
+Malta	6	Bormla
+Malta	7	Dingli
+Malta	8	Fgura
+Malta	9	Floriana
+Malta	10	Fontana
+Malta	11	Gudja
+Malta	13	Għajnsielem
+Malta	14	Għarb
+Malta	15	Għargħur
+Malta	16	Għasri
+Malta	17	Għaxaq
+Malta	12	Gżira
+Malta	19	Iklin
+Malta	20	Isla
+Malta	21	Kalkara
+Malta	22	Kerċem
+Malta	23	Kirkop
+Malta	24	Lija
+Malta	25	Luqa
+Malta	26	Marsa
+Malta	27	Marsaskala
+Malta	28	Marsaxlokk
+Malta	29	Mdina
+Malta	30	Mellieħa
+Malta	32	Mosta
+Malta	33	Mqabba
+Malta	34	Msida
+Malta	35	Mtarfa
+Malta	36	Munxar
+Malta	31	Mġarr
+Malta	37	Nadur
+Malta	38	Naxxar
+Malta	39	Paola
+Malta	40	Pembroke
+Malta	41	Pietà
+Malta	42	Qala
+Malta	43	Qormi
+Malta	44	Qrendi
+Malta	45	Rabat Għawdex
+Malta	46	Rabat Malta
+Malta	47	Safi
+Malta	50	San Lawrenz
+Malta	51	San Pawl il-Baħar
+Malta	48	San Ġiljan
+Malta	49	San Ġwann
+Malta	52	Sannat
+Malta	53	Santa Luċija
+Malta	54	Santa Venera
+Malta	55	Siġġiewi
+Malta	56	Sliema
+Malta	57	Swieqi
+Malta	58	Ta' Xbiex
+Malta	59	Tarxien
+Malta	60	Valletta
+Malta	61	Xagħra
+Malta	62	Xewkija
+Malta	63	Xgħajra
+Malta	18	Ħamrun
+Malta	64	Żabbar
+Malta	65	Żebbuġ Għawdex
+Malta	66	Żebbuġ Malta
+Malta	67	Żejtun
+Malta	68	Żurrieq
+Marshall Islands	L	Ralik chain
+Marshall Islands	T	Ratak chain
+Mauritania	7	Adrar
+Mauritania	3	Assaba
+Mauritania	5	Brakna
+Mauritania	8	Dakhlet Nouâdhibou
+Mauritania	4	Gorgol
+Mauritania	10	Guidimaka
+Mauritania	1	Hodh ech Chargui
+Mauritania	2	Hodh el Gharbi
+Mauritania	12	Inchiri
+Mauritania	NKC	Nouakchott
+Mauritania	9	Tagant
+Mauritania	11	Tiris Zemmour
+Mauritania	6	Trarza
+Mauritius	AG	Agalega Islands
+Mauritius	BR	Beau Bassin-Rose Hill
+Mauritius	BL	Black River
+Mauritius	CC	Cargados Carajos Shoals
+Mauritius	CU	Curepipe
+Mauritius	FL	Flacq
+Mauritius	GP	Grand Port
+Mauritius	MO	Moka
+Mauritius	PA	Pamplemousses
+Mauritius	PW	Plaines Wilhems
+Mauritius	PL	Port Louis
+Mauritius	PU	Port Louis
+Mauritius	QB	Quatre Bornes
+Mauritius	RR	Rivière du Rempart
+Mauritius	RO	Rodrigues Island
+Mauritius	SA	Savanne
+Mauritius	VP	Vacoas-Phoenix
+Mexico	DIF	Distrito Federal
+Mexico	AGU	Aguascalientes
+Mexico	BCN	Baja California
+Mexico	BCS	Baja California Sur
+Mexico	CAM	Campeche
+Mexico	CHP	Chiapas
+Mexico	CHH	Chihuahua
+Mexico	COA	Coahuila
+Mexico	COL	Colima
+Mexico	DUR	Durango
+Mexico	GUA	Guanajuato
+Mexico	GRO	Guerrero
+Mexico	HID	Hidalgo
+Mexico	JAL	Jalisco
+Mexico	MIC	Michoacán
+Mexico	MOR	Morelos
+Mexico	MEX	México
+Mexico	NAY	Nayarit
+Mexico	NLE	Nuevo León
+Mexico	OAX	Oaxaca
+Mexico	PUE	Puebla
+Mexico	QUE	Querétaro
+Mexico	ROO	Quintana Roo
+Mexico	SLP	San Luis Potosí
+Mexico	SIN	Sinaloa
+Mexico	SON	Sonora
+Mexico	TAB	Tabasco
+Mexico	TAM	Tamaulipas
+Mexico	TLA	Tlaxcala
+Mexico	VER	Veracruz
+Mexico	YUC	Yucatán
+Mexico	ZAC	Zacatecas
+Federated States of Micronesia	TRK	Chuuk
+Federated States of Micronesia	KSA	Kosrae
+Federated States of Micronesia	PNI	Pohnpei
+Federated States of Micronesia	YAP	Yap
+Moldova	AN	Anenii Noi
+Moldova	BS	Basarabeasca
+Moldova	BR	Briceni
+Moldova	BA	Bălţi
+Moldova	CA	Cahul
+Moldova	CT	Cantemir
+Moldova	CU	Chişinău
+Moldova	CM	Cimişlia
+Moldova	CR	Criuleni
+Moldova	CL	Călăraşi
+Moldova	CS	Căuşeni
+Moldova	DO	Donduşeni
+Moldova	DR	Drochia
+Moldova	DU	Dubăsari
+Moldova	ED	Edineţ
+Moldova	FL	Floreşti
+Moldova	FA	Făleşti
+Moldova	GL	Glodeni
+Moldova	GA	Găgăuzia, Unitatea teritorială autonomă
+Moldova	HI	Hînceşti
+Moldova	IA	Ialoveni
+Moldova	LE	Leova
+Moldova	NI	Nisporeni
+Moldova	OC	Ocniţa
+Moldova	OR	Orhei
+Moldova	RE	Rezina
+Moldova	RI	Rîşcani
+Moldova	SO	Soroca
+Moldova	ST	Străşeni
+Moldova	SN	Stînga Nistrului, unitatea teritorială din
+Moldova	SI	Sîngerei
+Moldova	TA	Taraclia
+Moldova	TE	Teleneşti
+Moldova	BD	Tighina
+Moldova	UN	Ungheni
+Moldova	SD	Şoldăneşti
+Moldova	SV	Ştefan Vodă
+Monaco	FO	Fontvieille
+Monaco	JE	Jardin Exotique
+Monaco	CL	La Colle
+Monaco	CO	La Condamine
+Monaco	GA	La Gare
+Monaco	SO	La Source
+Monaco	LA	Larvotto
+Monaco	MA	Malbousquet
+Monaco	MO	Monaco-Ville
+Monaco	MG	Moneghetti
+Monaco	MC	Monte-Carlo
+Monaco	MU	Moulins
+Monaco	PH	Port-Hercule
+Monaco	SR	Saint-Roman
+Monaco	SD	Sainte-Dévote
+Monaco	SP	Spélugues
+Monaco	VR	Vallon de la Rousse
+Mongolia	73	Arhangay
+Mongolia	71	Bayan-Ölgiy
+Mongolia	69	Bayanhongor
+Mongolia	67	Bulgan
+Mongolia	37	Darhan uul
+Mongolia	61	Dornod
+Mongolia	63	Dornogovĭ
+Mongolia	59	Dundgovĭ
+Mongolia	57	Dzavhan
+Mongolia	65	Govĭ-Altay
+Mongolia	64	Govĭ-Sümber
+Mongolia	39	Hentiy
+Mongolia	43	Hovd
+Mongolia	41	Hövsgöl
+Mongolia	35	Orhon
+Mongolia	49	Selenge
+Mongolia	51	Sühbaatar
+Mongolia	47	Töv
+Mongolia	1	Ulaanbaatar
+Mongolia	46	Uvs
+Mongolia	53	Ömnögovĭ
+Mongolia	55	Övörhangay
+Montenegro	1	Andrijevica
+Montenegro	2	Bar
+Montenegro	3	Berane
+Montenegro	4	Bijelo Polje
+Montenegro	5	Budva
+Montenegro	6	Cetinje
+Montenegro	7	Danilovgrad
+Montenegro	22	Gusinje
+Montenegro	8	Herceg-Novi
+Montenegro	9	Kolašin
+Montenegro	10	Kotor
+Montenegro	11	Mojkovac
+Montenegro	12	Nikšić
+Montenegro	23	Petnjica
+Montenegro	13	Plav
+Montenegro	14	Pljevlja
+Montenegro	15	Plužine
+Montenegro	16	Podgorica
+Montenegro	17	Rožaje
+Montenegro	19	Tivat
+Montenegro	20	Ulcinj
+Montenegro	18	Šavnik
+Montenegro	21	Žabljak
+Morocco	9	Chaouia-Ouardigha
+Morocco	10	Doukhala-Abda
+Morocco	5	Fès-Boulemane
+Morocco	2	Gharb-Chrarda-Beni Hssen
+Morocco	8	Grand Casablanca
+Morocco	14	Guelmim-Es Smara
+Morocco	4	L'Oriental
+Morocco	15	Laâyoune-Boujdour-Sakia el Hamra
+Morocco	11	Marrakech-Tensift-Al Haouz
+Morocco	6	Meknès-Tafilalet
+Morocco	16	Oued ed Dahab-Lagouira
+Morocco	7	Rabat-Salé-Zemmour-Zaer
+Morocco	13	Souss-Massa-Drâa
+Morocco	12	Tadla-Azilal
+Morocco	1	Tanger-Tétouan
+Morocco	3	Taza-Al Hoceima-Taounate
+Mozambique	P	Cabo Delgado
+Mozambique	G	Gaza
+Mozambique	I	Inhambane
+Mozambique	B	Manica
+Mozambique	MPM	Maputo
+Mozambique	L	Maputo
+Mozambique	N	Nampula
+Mozambique	A	Niassa
+Mozambique	S	Sofala
+Mozambique	T	Tete
+Mozambique	Q	Zambézia
+Myanmar	7	Ayeyarwady
+Myanmar	2	Bago
+Myanmar	14	Chin
+Myanmar	11	Kachin
+Myanmar	12	Kayah
+Myanmar	13	Kayin
+Myanmar	3	Magway
+Myanmar	4	Mandalay
+Myanmar	15	Mon
+Myanmar	16	Rakhine
+Myanmar	1	Sagaing
+Myanmar	17	Shan
+Myanmar	5	Tanintharyi
+Myanmar	6	Yangon
+Namibia	ER	Erongo
+Namibia	HA	Hardap
+Namibia	KA	Karas
+Namibia	KE	Kavango East
+Namibia	KW	Kavango West
+Namibia	KH	Khomas
+Namibia	KU	Kunene
+Namibia	OW	Ohangwena
+Namibia	OH	Omaheke
+Namibia	OS	Omusati
+Namibia	ON	Oshana
+Namibia	OT	Oshikoto
+Namibia	OD	Otjozondjupa
+Namibia	CA	Zambezi
+Nauru	1	Aiwo
+Nauru	2	Anabar
+Nauru	3	Anetan
+Nauru	4	Anibare
+Nauru	5	Baiti
+Nauru	6	Boe
+Nauru	7	Buada
+Nauru	8	Denigomodu
+Nauru	9	Ewa
+Nauru	10	Ijuw
+Nauru	11	Meneng
+Nauru	12	Nibok
+Nauru	13	Uaboe
+Nauru	14	Yaren
+Nepal	2	Madhya Pashchimanchal
+Nepal	1	Madhyamanchal
+Nepal	3	Pashchimanchal
+Nepal	4	Purwanchal
+Nepal	5	Sudur Pashchimanchal
+Netherlands	DR	Drenthe
+Netherlands	FL	Flevoland
+Netherlands	FR	Fryslân
+Netherlands	GE	Gelderland
+Netherlands	GR	Groningen
+Netherlands	LI	Limburg
+Netherlands	NB	Noord-Brabant
+Netherlands	NH	Noord-Holland
+Netherlands	OV	Overijssel
+Netherlands	UT	Utrecht
+Netherlands	ZE	Zeeland
+Netherlands	ZH	Zuid-Holland
+Netherlands	AW	Aruba
+Netherlands	CW	Curaçao
+Netherlands	SX	Sint Maarten
+Netherlands	BQ1	Bonaire
+Netherlands	BQ2	Saba
+Netherlands	BQ3	Sint Eustatius
+New Zealand	N	North Island
+New Zealand	S	South Island
+New Zealand	AUK	Auckland
+New Zealand	BOP	Bay of Plenty
+New Zealand	CAN	Canterbury
+New Zealand	HKB	Hawke's Bay
+New Zealand	MWT	Manawatu-Wanganui
+New Zealand	NTL	Northland
+New Zealand	OTA	Otago
+New Zealand	STL	Southland
+New Zealand	TKI	Taranaki
+New Zealand	WKO	Waikato
+New Zealand	WGN	Wellington
+New Zealand	WTC	West Coast
+New Zealand	CIT	Chatham Islands Territory
+New Zealand	GIS	Gisborne District
+New Zealand	MBH	Marlborough District
+New Zealand	NSN	Nelson City
+New Zealand	TAS	Tasman District
+Nicaragua	AN	Atlántico Norte
+Nicaragua	AS	Atlántico Sur
+Nicaragua	BO	Boaco
+Nicaragua	CA	Carazo
+Nicaragua	CI	Chinandega
+Nicaragua	CO	Chontales
+Nicaragua	ES	Estelí
+Nicaragua	GR	Granada
+Nicaragua	JI	Jinotega
+Nicaragua	LE	León
+Nicaragua	MD	Madriz
+Nicaragua	MN	Managua
+Nicaragua	MS	Masaya
+Nicaragua	MT	Matagalpa
+Nicaragua	NS	Nueva Segovia
+Nicaragua	RI	Rivas
+Nicaragua	SJ	Río San Juan
+Niger	1	Agadez
+Niger	2	Diffa
+Niger	3	Dosso
+Niger	4	Maradi
+Niger	8	Niamey
+Niger	5	Tahoua
+Niger	6	Tillabéri
+Niger	7	Zinder
+Nigeria	AB	Abia
+Nigeria	FC	Abuja Federal Capital Territory
+Nigeria	AD	Adamawa
+Nigeria	AK	Akwa Ibom
+Nigeria	AN	Anambra
+Nigeria	BA	Bauchi
+Nigeria	BY	Bayelsa
+Nigeria	BE	Benue
+Nigeria	BO	Borno
+Nigeria	CR	Cross River
+Nigeria	DE	Delta
+Nigeria	EB	Ebonyi
+Nigeria	ED	Edo
+Nigeria	EK	Ekiti
+Nigeria	EN	Enugu
+Nigeria	GO	Gombe
+Nigeria	IM	Imo
+Nigeria	JI	Jigawa
+Nigeria	KD	Kaduna
+Nigeria	KN	Kano
+Nigeria	KT	Katsina
+Nigeria	KE	Kebbi
+Nigeria	KO	Kogi
+Nigeria	KW	Kwara
+Nigeria	LA	Lagos
+Nigeria	NA	Nassarawa
+Nigeria	NI	Niger
+Nigeria	OG	Ogun
+Nigeria	ON	Ondo
+Nigeria	OS	Osun
+Nigeria	OY	Oyo
+Nigeria	PL	Plateau
+Nigeria	RI	Rivers
+Nigeria	SO	Sokoto
+Nigeria	TA	Taraba
+Nigeria	YO	Yobe
+Nigeria	ZA	Zamfara
+North Korea	4	Chagang
+North Korea	7	Kangwon
+North Korea	9	North Hamgyong
+North Korea	6	North Hwanghae
+North Korea	3	North Pyongan
+North Korea	1	Pyongyang
+North Korea	13	Rason
+North Korea	10	Ryanggang
+North Korea	8	South Hamgyong
+North Korea	5	South Hwanghae
+North Korea	2	South Pyongan
+Norway	2	Akershus
+Norway	9	Aust-Agder
+Norway	6	Buskerud
+Norway	20	Finnmark
+Norway	4	Hedmark
+Norway	12	Hordaland
+Norway	22	Jan Mayen
+Norway	15	Møre og Romsdal
+Norway	17	Nord-Trøndelag
+Norway	18	Nordland
+Norway	5	Oppland
+Norway	3	Oslo
+Norway	11	Rogaland
+Norway	14	Sogn og Fjordane
+Norway	21	Svalbard
+Norway	16	Sør-Trøndelag
+Norway	8	Telemark
+Norway	19	Troms
+Norway	10	Vest-Agder
+Norway	7	Vestfold
+Norway	1	Østfold
+Oman	DA	Ad Dākhilīyah
+Oman	BU	Al Buraymī
+Oman	BA	Al Bāţinah
+Oman	WU	Al Wusţá
+Oman	SH	Ash Sharqīyah
+Oman	ZA	Az̧ Z̧āhirah
+Oman	MA	Masqaţ
+Oman	MU	Musandam
+Oman	ZU	Z̧ufār
+Pakistan	JK	Azad Kashmir
+Pakistan	BA	Balochistan
+Pakistan	TA	Federally Administered Tribal Areas
+Pakistan	GB	Gilgit-Baltistan
+Pakistan	IS	Islamabad
+Pakistan	KP	Khyber Pakhtunkhwa
+Pakistan	PB	Punjab
+Pakistan	SD	Sindh
+Palau	2	Aimeliik
+Palau	4	Airai
+Palau	10	Angaur
+Palau	50	Hatobohei
+Palau	100	Kayangel
+Palau	150	Koror
+Palau	212	Melekeok
+Palau	214	Ngaraard
+Palau	218	Ngarchelong
+Palau	222	Ngardmau
+Palau	224	Ngatpang
+Palau	226	Ngchesar
+Palau	227	Ngeremlengui
+Palau	228	Ngiwal
+Palau	350	Peleliu
+Palau	370	Sonsorol
+Palestine	BTH	Bethlehem
+Palestine	DEB	Deir El Balah
+Palestine	GZA	Gaza
+Palestine	HBN	Hebron
+Palestine	JEN	Jenin
+Palestine	JRH	Jericho – Al Aghwar
+Palestine	JEM	Jerusalem
+Palestine	KYS	Khan Yunis
+Palestine	NBS	Nablus
+Palestine	NGZ	North Gaza
+Palestine	QQA	Qalqilya
+Palestine	RFH	Rafah
+Palestine	RBH	Ramallah
+Palestine	SLT	Salfit
+Palestine	TBS	Tubas
+Palestine	TKM	Tulkarm
+Panama	1	Bocas del Toro
+Panama	4	Chiriquí
+Panama	2	Coclé
+Panama	3	Colón
+Panama	5	Darién
+Panama	EM	Emberá
+Panama	6	Herrera
+Panama	KY	Kuna Yala
+Panama	7	Los Santos
+Panama	NB	Ngöbe-Buglé
+Panama	8	Panamá
+Panama	10	Panamá Oeste
+Panama	9	Veraguas
+Papua New Guinea	NSB	Bougainville
+Papua New Guinea	CPM	Central
+Papua New Guinea	CPK	Chimbu
+Papua New Guinea	EBR	East New Britain
+Papua New Guinea	ESW	East Sepik
+Papua New Guinea	EHG	Eastern Highlands
+Papua New Guinea	EPW	Enga
+Papua New Guinea	GPK	Gulf
+Papua New Guinea	MPM	Madang
+Papua New Guinea	MRL	Manus
+Papua New Guinea	MBA	Milne Bay
+Papua New Guinea	MPL	Morobe
+Papua New Guinea	NCD	National Capital District
+Papua New Guinea	NIK	New Ireland
+Papua New Guinea	NPP	Northern
+Papua New Guinea	SAN	Sandaun
+Papua New Guinea	SHM	Southern Highlands
+Papua New Guinea	WBK	West New Britain
+Papua New Guinea	WPD	Western
+Papua New Guinea	WHM	Western Highlands
+Paraguay	16	Alto Paraguay
+Paraguay	10	Alto Paraná
+Paraguay	13	Amambay
+Paraguay	ASU	Asunción
+Paraguay	19	Boquerón
+Paraguay	5	Caaguazú
+Paraguay	6	Caazapá
+Paraguay	14	Canindeyú
+Paraguay	11	Central
+Paraguay	1	Concepción
+Paraguay	3	Cordillera
+Paraguay	4	Guairá
+Paraguay	7	Itapúa
+Paraguay	8	Misiones
+Paraguay	9	Paraguarí
+Paraguay	15	Presidente Hayes
+Paraguay	2	San Pedro
+Paraguay	12	Ñeembucú
+Peru	AMA	Amazonas
+Peru	ANC	Ancash
+Peru	APU	Apurímac
+Peru	ARE	Arequipa
+Peru	AYA	Ayacucho
+Peru	CAJ	Cajamarca
+Peru	CUS	Cusco
+Peru	CAL	El Callao
+Peru	HUV	Huancavelica
+Peru	HUC	Huánuco
+Peru	ICA	Ica
+Peru	JUN	Junín
+Peru	LAL	La Libertad
+Peru	LAM	Lambayeque
+Peru	LIM	Lima
+Peru	LOR	Loreto
+Peru	MDD	Madre de Dios
+Peru	MOQ	Moquegua
+Peru	LMA	Municipalidad Metropolitana de Lima
+Peru	PAS	Pasco
+Peru	PIU	Piura
+Peru	PUN	Puno
+Peru	SAM	San Martín
+Peru	TAC	Tacna
+Peru	TUM	Tumbes
+Peru	UCA	Ucayali
+Philippines	14	Autonomous Region in Muslim Mindanao
+Philippines	5	Bicol
+Philippines	2	Cagayan Valley
+Philippines	40	Calabarzon
+Philippines	13	Caraga
+Philippines	3	Central Luzon
+Philippines	7	Central Visayas
+Philippines	15	Cordillera Administrative Region
+Philippines	11	Davao
+Philippines	8	Eastern Visayas
+Philippines	1	Ilocos
+Philippines	41	Mimaropa
+Philippines	0	National Capital Region
+Philippines	10	Northern Mindanao
+Philippines	12	Soccsksargen
+Philippines	6	Western Visayas
+Philippines	9	Zamboanga Peninsula
+Poland	DS	Dolnośląskie
+Poland	KP	Kujawsko-pomorskie
+Poland	LU	Lubelskie
+Poland	LB	Lubuskie
+Poland	MZ	Mazowieckie
+Poland	MA	Małopolskie
+Poland	OP	Opolskie
+Poland	PK	Podkarpackie
+Poland	PD	Podlaskie
+Poland	PM	Pomorskie
+Poland	WN	Warmińsko-mazurskie
+Poland	WP	Wielkopolskie
+Poland	ZP	Zachodniopomorskie
+Poland	LD	Łódzkie
+Poland	SL	Śląskie
+Poland	SK	Świętokrzyskie
+Portugal	1	Aveiro
+Portugal	2	Beja
+Portugal	3	Braga
+Portugal	4	Bragança
+Portugal	5	Castelo Branco
+Portugal	6	Coimbra
+Portugal	8	Faro
+Portugal	9	Guarda
+Portugal	10	Leiria
+Portugal	11	Lisboa
+Portugal	12	Portalegre
+Portugal	13	Porto
+Portugal	30	Região Autónoma da Madeira
+Portugal	20	Região Autónoma dos Açores
+Portugal	14	Santarém
+Portugal	15	Setúbal
+Portugal	16	Viana do Castelo
+Portugal	17	Vila Real
+Portugal	18	Viseu
+Portugal	7	Évora
+Qatar	DA	Ad Dawḩah
+Qatar	KH	Al Khawr wa adh Dhakhīrah
+Qatar	WA	Al Wakrah
+Qatar	RA	Ar Rayyān
+Qatar	MS	Ash Shamāl
+Qatar	ZA	Az̧ Za̧`āyin
+Qatar	US	Umm Şalāl
+Romania	AB	Alba
+Romania	AR	Arad
+Romania	AG	Argeș
+Romania	BC	Bacău
+Romania	BH	Bihor
+Romania	BN	Bistrița-Năsăud
+Romania	BT	Botoșani
+Romania	BV	Brașov
+Romania	BR	Brăila
+Romania	B	București
+Romania	BZ	Buzău
+Romania	CS	Caraș-Severin
+Romania	CJ	Cluj
+Romania	CT	Constanța
+Romania	CV	Covasna
+Romania	CL	Călărași
+Romania	DJ	Dolj
+Romania	DB	Dâmbovița
+Romania	GL	Galați
+Romania	GR	Giurgiu
+Romania	GJ	Gorj
+Romania	HR	Harghita
+Romania	HD	Hunedoara
+Romania	IL	Ialomița
+Romania	IS	Iași
+Romania	IF	Ilfov
+Romania	MM	Maramureș
+Romania	MH	Mehedinți
+Romania	MS	Mureș
+Romania	NT	Neamț
+Romania	OT	Olt
+Romania	PH	Prahova
+Romania	SM	Satu Mare
+Romania	SB	Sibiu
+Romania	SV	Suceava
+Romania	SJ	Sălaj
+Romania	TR	Teleorman
+Romania	TM	Timiș
+Romania	TL	Tulcea
+Romania	VS	Vaslui
+Romania	VN	Vrancea
+Romania	VL	Vâlcea
+Russia	AMU	Amurskaya oblast'
+Russia	ARK	Arkhangel'skaya oblast'
+Russia	AST	Astrakhanskaya oblast'
+Russia	BEL	Belgorodskaya oblast'
+Russia	BRY	Bryanskaya oblast'
+Russia	CHE	Chelyabinskaya oblast'
+Russia	IRK	Irkutskaya oblast'
+Russia	IVA	Ivanovskaya oblast'
+Russia	KGD	Kaliningradskaya oblast'
+Russia	KLU	Kaluzhskaya oblast'
+Russia	KEM	Kemerovskaya oblast'
+Russia	KIR	Kirovskaya oblast'
+Russia	KOS	Kostromskaya oblast'
+Russia	KGN	Kurganskaya oblast'
+Russia	KRS	Kurskaya oblast'
+Russia	LEN	Leningradskaya oblast'
+Russia	LIP	Lipetskaya oblast'
+Russia	MAG	Magadanskaya oblast'
+Russia	MOS	Moskovskaya oblast'
+Russia	MUR	Murmanskaya oblast'
+Russia	NIZ	Nizhegorodskaya oblast'
+Russia	NGR	Novgorodskaya oblast'
+Russia	NVS	Novosibirskaya oblast'
+Russia	OMS	Omskaya oblast'
+Russia	ORE	Orenburgskaya oblast'
+Russia	ORL	Orlovskaya oblast'
+Russia	PNZ	Penzenskaya oblast'
+Russia	PSK	Pskovskaya oblast'
+Russia	ROS	Rostovskaya oblast'
+Russia	RYA	Ryazanskaya oblast'
+Russia	SAK	Sakhalinskaya oblast'
+Russia	SAM	Samarskaya oblast'
+Russia	SAR	Saratovskaya oblast'
+Russia	SMO	Smolenskaya oblast'
+Russia	SVE	Sverdlovskaya oblast'
+Russia	TAM	Tambovskaya oblast'
+Russia	TOM	Tomskaya oblast'
+Russia	TUL	Tul'skaya oblast'
+Russia	TVE	Tverskaya oblast'
+Russia	TYU	Tyumenskaya oblast'
+Russia	ULY	Ul'yanovskaya oblast'
+Russia	VLA	Vladimirskaya oblast'
+Russia	VGG	Volgogradskaya oblast'
+Russia	VLG	Vologodskaya oblast'
+Russia	VOR	Voronezhskaya oblast'
+Russia	YAR	Yaroslavskaya oblast'
+Russia	ALT	Altayskiy kray
+Russia	KAM	Kamchatskiy kray
+Russia	KHA	Khabarovskiy kray
+Russia	KDA	Krasnodarskiy kray
+Russia	KYA	Krasnoyarskiy kray
+Russia	PER	Permskiy kray
+Russia	PRI	Primorskiy kray
+Russia	STA	Stavropol'skiy kray
+Russia	ZAB	Zabaykal'skiy kray
+Russia	MOW	Moskva
+Russia	SPE	Sankt-Peterburg
+Russia	CHU	Chukotskiy avtonomnyy okrug
+Russia	KHM	Khanty-Mansiyskiy avtonomnyy okrug-Yugra
+Russia	NEN	Nenetskiy avtonomnyy okrug
+Russia	YAN	Yamalo-Nenetskiy avtonomnyy okrug
+Russia	YEV	Yevreyskaya avtonomnaya oblast'
+Russia	AD	Adygeya, Respublika
+Russia	AL	Altay, Respublika
+Russia	BA	Bashkortostan, Respublika
+Russia	BU	Buryatiya, Respublika
+Russia	CE	Chechenskaya Respublika
+Russia	CU	Chuvashskaya Respublika
+Russia	DA	Dagestan, Respublika
+Russia	IN	Ingushetiya, Respublika
+Russia	KB	Kabardino-Balkarskaya Respublika
+Russia	KL	Kalmykiya, Respublika
+Russia	KC	Karachayevo-Cherkesskaya Respublika
+Russia	KR	Kareliya, Respublika
+Russia	KK	Khakasiya, Respublika
+Russia	KO	Komi, Respublika
+Russia	ME	Mariy El, Respublika
+Russia	MO	Mordoviya, Respublika
+Russia	SA	Sakha, Respublika
+Russia	SE	Severnaya Osetiya-Alaniya, Respublika
+Russia	TA	Tatarstan, Respublika
+Russia	TY	Tyva, Respublika
+Russia	UD	Udmurtskaya Respublika
+Rwanda	2	Est
+Rwanda	3	Nord
+Rwanda	4	Ouest
+Rwanda	5	Sud
+Rwanda	1	Ville de Kigali
+Saint Helena	AC	Ascension
+Saint Helena	HL	Saint Helena
+Saint Helena	TA	Tristan da Cunha
+Saint Kitts and Nevis	N	Nevis
+Saint Kitts and Nevis	K	Saint Kitts
+Saint Lucia	1	Anse la Raye
+Saint Lucia	2	Castries
+Saint Lucia	3	Choiseul
+Saint Lucia	4	Dauphin
+Saint Lucia	5	Dennery
+Saint Lucia	6	Gros Islet
+Saint Lucia	7	Laborie
+Saint Lucia	8	Micoud
+Saint Lucia	9	Praslin
+Saint Lucia	10	Soufrière
+Saint Lucia	11	Vieux Fort
+Saint Vincent and the Grenadines	1	Charlotte
+Saint Vincent and the Grenadines	6	Grenadines
+Saint Vincent and the Grenadines	2	Saint Andrew
+Saint Vincent and the Grenadines	3	Saint David
+Saint Vincent and the Grenadines	4	Saint George
+Saint Vincent and the Grenadines	5	Saint Patrick
+Samoa	AA	A'ana
+Samoa	AL	Aiga-i-le-Tai
+Samoa	AT	Atua
+Samoa	FA	Fa'asaleleaga
+Samoa	GE	Gaga'emauga
+Samoa	GI	Gagaifomauga
+Samoa	PA	Palauli
+Samoa	SA	Satupa'itea
+Samoa	TU	Tuamasaga
+Samoa	VF	Va'a-o-Fonoti
+Samoa	VS	Vaisigano
+San Marino	1	Acquaviva
+San Marino	6	Borgo Maggiore
+San Marino	2	Chiesanuova
+San Marino	3	Domagnano
+San Marino	4	Faetano
+San Marino	5	Fiorentino
+San Marino	8	Montegiardino
+San Marino	7	San Marino
+San Marino	9	Serravalle
+Sao Tome and Principe	P	Príncipe
+Sao Tome and Principe	S	São Tomé
+Saudi Arabia	11	Al Bāḩah
+Saudi Arabia	12	Al Jawf
+Saudi Arabia	3	Al Madīnah
+Saudi Arabia	5	Al Qaşīm
+Saudi Arabia	8	Al Ḩudūd ash Shamālīyah
+Saudi Arabia	1	Ar Riyāḑ
+Saudi Arabia	4	Ash Sharqīyah
+Saudi Arabia	9	Jīzān
+Saudi Arabia	2	Makkah
+Saudi Arabia	10	Najrān
+Saudi Arabia	7	Tabūk
+Saudi Arabia	14	ٰĀsīr
+Saudi Arabia	6	Ḩā'il
+Senegal	DK	Dakar
+Senegal	DB	Diourbel
+Senegal	FK	Fatick
+Senegal	KA	Kaffrine
+Senegal	KL	Kaolack
+Senegal	KD	Kolda
+Senegal	KE	Kédougou
+Senegal	LG	Louga
+Senegal	MT	Matam
+Senegal	SL	Saint-Louis
+Senegal	SE	Sédhiou
+Senegal	TC	Tambacounda
+Senegal	TH	Thiès
+Senegal	ZG	Ziguinchor
+Serbia	KM	Kosovo-Metohija
+Serbia	VO	Vojvodina
+Seychelles	2	Anse Boileau
+Seychelles	3	Anse Etoile
+Seychelles	5	Anse Royale
+Seychelles	1	Anse aux Pins
+Seychelles	4	Au Cap
+Seychelles	6	Baie Lazare
+Seychelles	7	Baie Sainte Anne
+Seychelles	8	Beau Vallon
+Seychelles	9	Bel Air
+Seychelles	10	Bel Ombre
+Seychelles	11	Cascade
+Seychelles	16	English River
+Seychelles	12	Glacis
+Seychelles	13	Grand Anse Mahe
+Seychelles	14	Grand Anse Praslin
+Seychelles	15	La Digue
+Seychelles	24	Les Mamelles
+Seychelles	17	Mont Buxton
+Seychelles	18	Mont Fleuri
+Seychelles	19	Plaisance
+Seychelles	20	Pointe Larue
+Seychelles	21	Port Glaud
+Seychelles	25	Roche Caiman
+Seychelles	22	Saint Louis
+Seychelles	23	Takamaka
+Sierra Leone	E	Eastern
+Sierra Leone	N	Northern
+Sierra Leone	S	Southern
+Sierra Leone	W	Western Area
+Singapore	1	Central Singapore
+Singapore	2	North East
+Singapore	3	North West
+Singapore	4	South East
+Singapore	5	South West
+Slovakia	BC	Banskobystrický kraj
+Slovakia	BL	Bratislavský kraj
+Slovakia	KI	Košický kraj
+Slovakia	NI	Nitriansky kraj
+Slovakia	PV	Prešovský kraj
+Slovakia	TC	Trenčiansky kraj
+Slovakia	TA	Trnavský kraj
+Slovakia	ZI	Žilinský kraj
+Slovenia	1	Ajdovščina
+Slovenia	195	Apače
+Slovenia	2	Beltinci
+Slovenia	148	Benedikt
+Slovenia	149	Bistrica ob Sotli
+Slovenia	3	Bled
+Slovenia	150	Bloke
+Slovenia	4	Bohinj
+Slovenia	5	Borovnica
+Slovenia	6	Bovec
+Slovenia	151	Braslovče
+Slovenia	7	Brda
+Slovenia	8	Brezovica
+Slovenia	9	Brežice
+Slovenia	152	Cankova
+Slovenia	11	Celje
+Slovenia	12	Cerklje na Gorenjskem
+Slovenia	13	Cerknica
+Slovenia	14	Cerkno
+Slovenia	153	Cerkvenjak
+Slovenia	196	Cirkulane
+Slovenia	18	Destrnik
+Slovenia	19	Divača
+Slovenia	154	Dobje
+Slovenia	20	Dobrepolje
+Slovenia	155	Dobrna
+Slovenia	21	Dobrova–Polhov Gradec
+Slovenia	156	Dobrovnik
+Slovenia	22	Dol pri Ljubljani
+Slovenia	157	Dolenjske Toplice
+Slovenia	23	Domžale
+Slovenia	24	Dornava
+Slovenia	25	Dravograd
+Slovenia	26	Duplek
+Slovenia	27	Gorenja vas–Poljane
+Slovenia	28	Gorišnica
+Slovenia	207	Gorje
+Slovenia	29	Gornja Radgona
+Slovenia	30	Gornji Grad
+Slovenia	31	Gornji Petrovci
+Slovenia	158	Grad
+Slovenia	32	Grosuplje
+Slovenia	159	Hajdina
+Slovenia	161	Hodoš
+Slovenia	162	Horjul
+Slovenia	160	Hoče–Slivnica
+Slovenia	34	Hrastnik
+Slovenia	35	Hrpelje-Kozina
+Slovenia	36	Idrija
+Slovenia	37	Ig
+Slovenia	38	Ilirska Bistrica
+Slovenia	39	Ivančna Gorica
+Slovenia	40	Izola
+Slovenia	41	Jesenice
+Slovenia	163	Jezersko
+Slovenia	42	Juršinci
+Slovenia	43	Kamnik
+Slovenia	44	Kanal
+Slovenia	45	Kidričevo
+Slovenia	46	Kobarid
+Slovenia	47	Kobilje
+Slovenia	49	Komen
+Slovenia	164	Komenda
+Slovenia	50	Koper
+Slovenia	197	Kosanjevica na Krki
+Slovenia	165	Kostel
+Slovenia	51	Kozje
+Slovenia	48	Kočevje
+Slovenia	52	Kranj
+Slovenia	53	Kranjska Gora
+Slovenia	166	Križevci
+Slovenia	54	Krško
+Slovenia	55	Kungota
+Slovenia	56	Kuzma
+Slovenia	57	Laško
+Slovenia	58	Lenart
+Slovenia	59	Lendava
+Slovenia	60	Litija
+Slovenia	61	Ljubljana
+Slovenia	62	Ljubno
+Slovenia	63	Ljutomer
+Slovenia	208	Log-Dragomer
+Slovenia	64	Logatec
+Slovenia	167	Lovrenc na Pohorju
+Slovenia	65	Loška Dolina
+Slovenia	66	Loški Potok
+Slovenia	68	Lukovica
+Slovenia	67	Luče
+Slovenia	69	Majšperk
+Slovenia	198	Makole
+Slovenia	70	Maribor
+Slovenia	168	Markovci
+Slovenia	71	Medvode
+Slovenia	72	Mengeš
+Slovenia	73	Metlika
+Slovenia	74	Mežica
+Slovenia	169	Miklavž na Dravskem Polju
+Slovenia	75	Miren–Kostanjevica
+Slovenia	170	Mirna Peč
+Slovenia	76	Mislinja
+Slovenia	199	Mokronog–Trebelno
+Slovenia	78	Moravske Toplice
+Slovenia	77	Moravče
+Slovenia	79	Mozirje
+Slovenia	80	Murska Sobota
+Slovenia	81	Muta
+Slovenia	82	Naklo
+Slovenia	83	Nazarje
+Slovenia	84	Nova Gorica
+Slovenia	85	Novo Mesto
+Slovenia	86	Odranci
+Slovenia	171	Oplotnica
+Slovenia	87	Ormož
+Slovenia	88	Osilnica
+Slovenia	89	Pesnica
+Slovenia	90	Piran
+Slovenia	91	Pivka
+Slovenia	172	Podlehnik
+Slovenia	93	Podvelka
+Slovenia	92	Podčetrtek
+Slovenia	200	Poljčane
+Slovenia	173	Polzela
+Slovenia	94	Postojna
+Slovenia	174	Prebold
+Slovenia	95	Preddvor
+Slovenia	175	Prevalje
+Slovenia	96	Ptuj
+Slovenia	97	Puconci
+Slovenia	100	Radenci
+Slovenia	99	Radeče
+Slovenia	101	Radlje ob Dravi
+Slovenia	102	Radovljica
+Slovenia	103	Ravne na Koroškem
+Slovenia	176	Razkrižje
+Slovenia	98	Rače–Fram
+Slovenia	201	Renče-Vogrsko
+Slovenia	209	Rečica ob Savinji
+Slovenia	104	Ribnica
+Slovenia	177	Ribnica na Pohorju
+Slovenia	107	Rogatec
+Slovenia	106	Rogaška Slatina
+Slovenia	105	Rogašovci
+Slovenia	108	Ruše
+Slovenia	178	Selnica ob Dravi
+Slovenia	109	Semič
+Slovenia	110	Sevnica
+Slovenia	111	Sežana
+Slovenia	112	Slovenj Gradec
+Slovenia	113	Slovenska Bistrica
+Slovenia	114	Slovenske Konjice
+Slovenia	179	Sodražica
+Slovenia	180	Solčava
+Slovenia	202	Središče ob Dravi
+Slovenia	115	Starše
+Slovenia	203	Straža
+Slovenia	181	Sveta Ana
+Slovenia	204	Sveta Trojica v Slovenskih Goricah
+Slovenia	182	Sveti Andraž v Slovenskih Goricah
+Slovenia	116	Sveti Jurij
+Slovenia	210	Sveti Jurij v Slovenskih Goricah
+Slovenia	205	Sveti Tomaž
+Slovenia	184	Tabor
+Slovenia	10	Tišina
+Slovenia	128	Tolmin
+Slovenia	129	Trbovlje
+Slovenia	130	Trebnje
+Slovenia	185	Trnovska Vas
+Slovenia	186	Trzin
+Slovenia	131	Tržič
+Slovenia	132	Turnišče
+Slovenia	133	Velenje
+Slovenia	187	Velika Polana
+Slovenia	134	Velike Lašče
+Slovenia	188	Veržej
+Slovenia	135	Videm
+Slovenia	136	Vipava
+Slovenia	137	Vitanje
+Slovenia	138	Vodice
+Slovenia	139	Vojnik
+Slovenia	189	Vransko
+Slovenia	140	Vrhnika
+Slovenia	141	Vuzenica
+Slovenia	142	Zagorje ob Savi
+Slovenia	143	Zavrč
+Slovenia	144	Zreče
+Slovenia	15	Črenšovci
+Slovenia	16	Črna na Koroškem
+Slovenia	17	Črnomelj
+Slovenia	33	Šalovci
+Slovenia	183	Šempeter–Vrtojba
+Slovenia	118	Šentilj
+Slovenia	119	Šentjernej
+Slovenia	120	Šentjur
+Slovenia	211	Šentrupert
+Slovenia	117	Šenčur
+Slovenia	121	Škocjan
+Slovenia	122	Škofja Loka
+Slovenia	123	Škofljica
+Slovenia	124	Šmarje pri Jelšah
+Slovenia	206	Šmarješke Toplice
+Slovenia	125	Šmartno ob Paki
+Slovenia	194	Šmartno pri Litiji
+Slovenia	126	Šoštanj
+Slovenia	127	Štore
+Slovenia	190	Žalec
+Slovenia	146	Železniki
+Slovenia	191	Žetale
+Slovenia	147	Žiri
+Slovenia	192	Žirovnica
+Slovenia	193	Žužemberk
+Solomon Islands	CT	Capital Territory
+Solomon Islands	CE	Central
+Solomon Islands	CH	Choiseul
+Solomon Islands	GU	Guadalcanal
+Solomon Islands	IS	Isabel
+Solomon Islands	MK	Makira-Ulawa
+Solomon Islands	ML	Malaita
+Solomon Islands	RB	Rennell and Bellona
+Solomon Islands	TE	Temotu
+Solomon Islands	WE	Western
+Somalia	AW	Awdal
+Somalia	BK	Bakool
+Somalia	BN	Banaadir
+Somalia	BR	Bari
+Somalia	BY	Bay
+Somalia	GA	Galguduud
+Somalia	GE	Gedo
+Somalia	HI	Hiiraan
+Somalia	JD	Jubbada Dhexe
+Somalia	JH	Jubbada Hoose
+Somalia	MU	Mudug
+Somalia	NU	Nugaal
+Somalia	SA	Sanaag
+Somalia	SD	Shabeellaha Dhexe
+Somalia	SH	Shabeellaha Hoose
+Somalia	SO	Sool
+Somalia	TO	Togdheer
+Somalia	WO	Woqooyi Galbeed
+South Africa	EC	Eastern Cape
+South Africa	FS	Free State
+South Africa	GT	Gauteng
+South Africa	NL	KwaZulu-Natal
+South Africa	LP	Limpopo
+South Africa	MP	Mpumalanga
+South Africa	NW	North West
+South Africa	NC	Northern Cape
+South Africa	WC	Western Cape
+South Korea	26	Busan-gwangyeoksi
+South Korea	43	Chungcheongbuk-do
+South Korea	44	Chungcheongnam-do
+South Korea	27	Daegu-gwangyeoksi
+South Korea	30	Daejeon-gwangyeoksi
+South Korea	42	Gangwon-do
+South Korea	29	Gwangju-gwangyeoksi
+South Korea	41	Gyeonggi-do
+South Korea	47	Gyeongsangbuk-do
+South Korea	48	Gyeongsangnam-do
+South Korea	28	Incheon-gwangyeoksi
+South Korea	49	Jeju-teukbyeoljachido
+South Korea	45	Jeollabuk-do
+South Korea	46	Jeollanam-do
+South Korea	50	Sejong
+South Korea	11	Seoul-teukbyeolsi
+South Korea	31	Ulsan-gwangyeoksi
+South Sudan	EC	Central Equatoria
+South Sudan	EE	Eastern Equatoria
+South Sudan	JG	Jonglei
+South Sudan	LK	Lakes
+South Sudan	BN	Northern Bahr el Ghazal
+South Sudan	UY	Unity
+South Sudan	NU	Upper Nile
+South Sudan	WR	Warrap
+South Sudan	BW	Western Bahr el Ghazal
+South Sudan	EW	Western Equatoria
+Spain	C	A Coruña
+Spain	AB	Albacete
+Spain	A	Alicante
+Spain	AL	Almería
+Spain	O	Asturias
+Spain	BA	Badajoz
+Spain	PM	Balears
+Spain	B	Barcelona
+Spain	BU	Burgos
+Spain	S	Cantabria
+Spain	CS	Castellón
+Spain	CR	Ciudad Real
+Spain	CU	Cuenca
+Spain	CC	Cáceres
+Spain	CA	Cádiz
+Spain	CO	Córdoba
+Spain	GI	Girona
+Spain	GR	Granada
+Spain	GU	Guadalajara
+Spain	SS	Guipúzcoa
+Spain	H	Huelva
+Spain	HU	Huesca
+Spain	J	Jaén
+Spain	LO	La Rioja
+Spain	GC	Las Palmas
+Spain	LE	León
+Spain	L	Lleida
+Spain	LU	Lugo
+Spain	M	Madrid
+Spain	MU	Murcia
+Spain	MA	Málaga
+Spain	NA	Navarra
+Spain	OR	Ourense
+Spain	P	Palencia
+Spain	PO	Pontevedra
+Spain	SA	Salamanca
+Spain	TF	Santa Cruz de Tenerife
+Spain	SG	Segovia
+Spain	SE	Sevilla
+Spain	SO	Soria
+Spain	T	Tarragona
+Spain	TE	Teruel
+Spain	TO	Toledo
+Spain	V	Valencia
+Spain	VA	Valladolid
+Spain	BI	Vizcaya
+Spain	ZA	Zamora
+Spain	Z	Zaragoza
+Spain	VI	Álava
+Spain	AV	Ávila
+Spain	CE	Ceuta
+Spain	ML	Melilla
+Spain	AN	Andalucía
+Spain	AR	Aragón
+Spain	AS	Asturias, Principado de
+Spain	CN	Canarias
+Spain	CB	Cantabria
+Spain	CL	Castilla y León
+Spain	CM	Castilla-La Mancha
+Spain	CT	Catalunya
+Spain	EX	Extremadura
+Spain	GA	Galicia
+Spain	IB	Illes Balears
+Spain	RI	La Rioja
+Spain	MD	Madrid, Comunidad de
+Spain	MC	Murcia, Región de
+Spain	NC	Navarra, Comunidad Foral de
+Spain	PV	País Vasco
+Spain	VC	Valenciana, Comunidad
+Sri Lanka	2	Central Province
+Sri Lanka	5	Eastern Province
+Sri Lanka	7	North Central Province
+Sri Lanka	6	North Western Province
+Sri Lanka	4	Northern Province
+Sri Lanka	9	Sabaragamuwa Province
+Sri Lanka	3	Southern Province
+Sri Lanka	8	Uva Province
+Sri Lanka	1	Western Province
+Sudan	RS	Al Baḩr al Aḩmar
+Sudan	GZ	Al Jazīrah
+Sudan	KH	Al Kharţūm
+Sudan	GD	Al Qaḑārif
+Sudan	NR	An Nīl
+Sudan	NW	An Nīl al Abyaḑ
+Sudan	NB	An Nīl al Azraq
+Sudan	NO	Ash Shamālīyah
+Sudan	DW	Gharb Dārfūr
+Sudan	DS	Janūb Dārfūr
+Sudan	KS	Janūb Kurdufān
+Sudan	KA	Kassalā
+Sudan	DN	Shamāl Dārfūr
+Sudan	KN	Shamāl Kurdufān
+Sudan	DE	Sharq Dārfūr
+Sudan	SI	Sinnār
+Sudan	DC	Zalingei
+Suriname	BR	Brokopondo
+Suriname	CM	Commewijne
+Suriname	CR	Coronie
+Suriname	MA	Marowijne
+Suriname	NI	Nickerie
+Suriname	PR	Para
+Suriname	PM	Paramaribo
+Suriname	SA	Saramacca
+Suriname	SI	Sipaliwini
+Suriname	WA	Wanica
+Swaziland	HH	Hhohho
+Swaziland	LU	Lubombo
+Swaziland	MA	Manzini
+Swaziland	SH	Shiselweni
+Sweden	K	Blekinge län
+Sweden	W	Dalarnas län
+Sweden	I	Gotlands län
+Sweden	X	Gävleborgs län
+Sweden	N	Hallands län
+Sweden	Z	Jämtlands län
+Sweden	F	Jönköpings län
+Sweden	H	Kalmar län
+Sweden	G	Kronobergs län
+Sweden	BD	Norrbottens län
+Sweden	M	Skåne län
+Sweden	AB	Stockholms län
+Sweden	D	Södermanlands län
+Sweden	C	Uppsala län
+Sweden	S	Värmlands län
+Sweden	AC	Västerbottens län
+Sweden	Y	Västernorrlands län
+Sweden	U	Västmanlands län
+Sweden	O	Västra Götalands län
+Sweden	T	Örebro län
+Sweden	E	Östergötlands län
+Switzerland	AG	Aargau
+Switzerland	AR	Appenzell Ausserrhoden
+Switzerland	AI	Appenzell Innerrhoden
+Switzerland	BL	Basel-Landschaft
+Switzerland	BS	Basel-Stadt
+Switzerland	BE	Bern
+Switzerland	FR	Fribourg
+Switzerland	GE	Genève
+Switzerland	GL	Glarus
+Switzerland	GR	Graubünden
+Switzerland	JU	Jura
+Switzerland	LU	Luzern
+Switzerland	NE	Neuchâtel
+Switzerland	NW	Nidwalden
+Switzerland	OW	Obwalden
+Switzerland	SG	Sankt Gallen
+Switzerland	SH	Schaffhausen
+Switzerland	SZ	Schwyz
+Switzerland	SO	Solothurn
+Switzerland	TG	Thurgau
+Switzerland	TI	Ticino
+Switzerland	UR	Uri
+Switzerland	VS	Valais
+Switzerland	VD	Vaud
+Switzerland	ZG	Zug
+Switzerland	ZH	Zürich
+Syria	LA	Al Lādhiqīyah
+Syria	QU	Al Qunayţirah
+Syria	HA	Al Ḩasakah
+Syria	RA	Ar Raqqah
+Syria	SU	As Suwaydā'
+Syria	DR	Darٰā
+Syria	DY	Dayr az Zawr
+Syria	DI	Dimashq
+Syria	ID	Idlib
+Syria	RD	Rīf Dimashq
+Syria	TA	Ţarţūs
+Syria	HL	Ḩalab
+Syria	HM	Ḩamāh
+Syria	HI	Ḩimş
+Taiwan	CHA	Changhua
+Taiwan	CYQ	Chiayi
+Taiwan	CYI	Chiayi
+Taiwan	HSZ	Hsinchu
+Taiwan	HSQ	Hsinchu
+Taiwan	HUA	Hualien
+Taiwan	ILA	Ilan
+Taiwan	KHQ	Kaohsiung
+Taiwan	KHH	Kaohsiung
+Taiwan	KEE	Keelung
+Taiwan	MIA	Miaoli
+Taiwan	NAN	Nantou
+Taiwan	PEN	Penghu
+Taiwan	PIF	Pingtung
+Taiwan	TXG	Taichung
+Taiwan	TXQ	Taichung
+Taiwan	TNN	Tainan
+Taiwan	TNQ	Tainan
+Taiwan	TPE	Taipei
+Taiwan	TPQ	Taipei
+Taiwan	TTT	Taitung
+Taiwan	TAO	Taoyuan
+Taiwan	YUN	Yunlin
+Tajikistan	DU	Dushanbe
+Tajikistan	KT	Khatlon
+Tajikistan	GB	Kŭhistoni Badakhshon
+Tajikistan	SU	Sughd
+Tanzania	1	Arusha
+Tanzania	2	Dar es Salaam
+Tanzania	3	Dodoma
+Tanzania	4	Iringa
+Tanzania	5	Kagera
+Tanzania	6	Kaskazini Pemba
+Tanzania	7	Kaskazini Unguja
+Tanzania	8	Kigoma
+Tanzania	9	Kilimanjaro
+Tanzania	10	Kusini Pemba
+Tanzania	11	Kusini Unguja
+Tanzania	12	Lindi
+Tanzania	26	Manyara
+Tanzania	13	Mara
+Tanzania	14	Mbeya
+Tanzania	15	Mjini Magharibi
+Tanzania	16	Morogoro
+Tanzania	17	Mtwara
+Tanzania	18	Mwanza
+Tanzania	19	Pwani
+Tanzania	20	Rukwa
+Tanzania	21	Ruvuma
+Tanzania	22	Shinyanga
+Tanzania	23	Singida
+Tanzania	24	Tabora
+Tanzania	25	Tanga
+Thailand	37	Amnat Charoen
+Thailand	15	Ang Thong
+Thailand	38	Bueng Kan
+Thailand	31	Buri Ram
+Thailand	24	Chachoengsao
+Thailand	18	Chai Nat
+Thailand	36	Chaiyaphum
+Thailand	22	Chanthaburi
+Thailand	50	Chiang Mai
+Thailand	57	Chiang Rai
+Thailand	20	Chon Buri
+Thailand	86	Chumphon
+Thailand	46	Kalasin
+Thailand	62	Kamphaeng Phet
+Thailand	71	Kanchanaburi
+Thailand	40	Khon Kaen
+Thailand	81	Krabi
+Thailand	10	Krung Thep Maha Nakhon
+Thailand	52	Lampang
+Thailand	51	Lamphun
+Thailand	42	Loei
+Thailand	16	Lop Buri
+Thailand	58	Mae Hong Son
+Thailand	44	Maha Sarakham
+Thailand	49	Mukdahan
+Thailand	26	Nakhon Nayok
+Thailand	73	Nakhon Pathom
+Thailand	48	Nakhon Phanom
+Thailand	30	Nakhon Ratchasima
+Thailand	60	Nakhon Sawan
+Thailand	80	Nakhon Si Thammarat
+Thailand	55	Nan
+Thailand	96	Narathiwat
+Thailand	39	Nong Bua Lam Phu
+Thailand	43	Nong Khai
+Thailand	12	Nonthaburi
+Thailand	13	Pathum Thani
+Thailand	94	Pattani
+Thailand	82	Phangnga
+Thailand	93	Phatthalung
+Thailand	S	Phatthaya
+Thailand	56	Phayao
+Thailand	67	Phetchabun
+Thailand	76	Phetchaburi
+Thailand	66	Phichit
+Thailand	65	Phitsanulok
+Thailand	14	Phra Nakhon Si Ayutthaya
+Thailand	54	Phrae
+Thailand	83	Phuket
+Thailand	25	Prachin Buri
+Thailand	77	Prachuap Khiri Khan
+Thailand	85	Ranong
+Thailand	70	Ratchaburi
+Thailand	21	Rayong
+Thailand	45	Roi Et
+Thailand	27	Sa Kaeo
+Thailand	47	Sakon Nakhon
+Thailand	11	Samut Prakan
+Thailand	74	Samut Sakhon
+Thailand	75	Samut Songkhram
+Thailand	19	Saraburi
+Thailand	91	Satun
+Thailand	33	Si Sa Ket
+Thailand	17	Sing Buri
+Thailand	90	Songkhla
+Thailand	64	Sukhothai
+Thailand	72	Suphan Buri
+Thailand	84	Surat Thani
+Thailand	32	Surin
+Thailand	63	Tak
+Thailand	92	Trang
+Thailand	23	Trat
+Thailand	34	Ubon Ratchathani
+Thailand	41	Udon Thani
+Thailand	61	Uthai Thani
+Thailand	53	Uttaradit
+Thailand	95	Yala
+Thailand	35	Yasothon
+East Timor	AL	Aileu
+East Timor	AN	Ainaro
+East Timor	BA	Baucau
+East Timor	BO	Bobonaro
+East Timor	CO	Cova Lima
+East Timor	DI	Díli
+East Timor	ER	Ermera
+East Timor	LA	Lautem
+East Timor	LI	Liquiça
+East Timor	MT	Manatuto
+East Timor	MF	Manufahi
+East Timor	OE	Oecussi
+East Timor	VI	Viqueque
+Togo	C	Centre
+Togo	K	Kara
+Togo	M	Maritime
+Togo	P	Plateaux
+Togo	S	Savannes
+Tonga	1	'Eua
+Tonga	2	Ha'apai
+Tonga	3	Niuas
+Tonga	4	Tongatapu
+Tonga	5	Vava'u
+Trinidad and Tobago	ARI	Arima
+Trinidad and Tobago	CHA	Chaguanas
+Trinidad and Tobago	CTT	Couva-Tabaquite-Talparo
+Trinidad and Tobago	DMN	Diego Martin
+Trinidad and Tobago	ETO	Eastern Tobago
+Trinidad and Tobago	PED	Penal-Debe
+Trinidad and Tobago	PTF	Point Fortin
+Trinidad and Tobago	POS	Port of Spain
+Trinidad and Tobago	PRT	Princes Town
+Trinidad and Tobago	RCM	Rio Claro-Mayaro
+Trinidad and Tobago	SFO	San Fernando
+Trinidad and Tobago	SJL	San Juan-Laventille
+Trinidad and Tobago	SGE	Sangre Grande
+Trinidad and Tobago	SIP	Siparia
+Trinidad and Tobago	TUP	Tunapuna-Piarco
+Trinidad and Tobago	WTO	Western Tobago
+Tunisia	12	Ariana
+Tunisia	13	Ben Arous
+Tunisia	23	Bizerte
+Tunisia	31	Béja
+Tunisia	81	Gabès
+Tunisia	71	Gafsa
+Tunisia	32	Jendouba
+Tunisia	41	Kairouan
+Tunisia	42	Kasserine
+Tunisia	73	Kebili
+Tunisia	14	La Manouba
+Tunisia	33	Le Kef
+Tunisia	53	Mahdia
+Tunisia	82	Medenine
+Tunisia	52	Monastir
+Tunisia	21	Nabeul
+Tunisia	61	Sfax
+Tunisia	43	Sidi Bouzid
+Tunisia	34	Siliana
+Tunisia	51	Sousse
+Tunisia	83	Tataouine
+Tunisia	72	Tozeur
+Tunisia	11	Tunis
+Tunisia	22	Zaghouan
+Turkey	1	Adana
+Turkey	2	Adıyaman
+Turkey	3	Afyonkarahisar
+Turkey	68	Aksaray
+Turkey	5	Amasya
+Turkey	6	Ankara
+Turkey	7	Antalya
+Turkey	75	Ardahan
+Turkey	8	Artvin
+Turkey	9	Aydın
+Turkey	4	Ağrı
+Turkey	10	Balıkesir
+Turkey	74	Bartın
+Turkey	72	Batman
+Turkey	69	Bayburt
+Turkey	11	Bilecik
+Turkey	12	Bingöl
+Turkey	13	Bitlis
+Turkey	14	Bolu
+Turkey	15	Burdur
+Turkey	16	Bursa
+Turkey	20	Denizli
+Turkey	21	Diyarbakır
+Turkey	81	Düzce
+Turkey	22	Edirne
+Turkey	23	Elazığ
+Turkey	24	Erzincan
+Turkey	25	Erzurum
+Turkey	26	Eskişehir
+Turkey	27	Gaziantep
+Turkey	28	Giresun
+Turkey	29	Gümüşhane
+Turkey	30	Hakkâri
+Turkey	31	Hatay
+Turkey	32	Isparta
+Turkey	76	Iğdır
+Turkey	46	Kahramanmaraş
+Turkey	78	Karabük
+Turkey	70	Karaman
+Turkey	36	Kars
+Turkey	37	Kastamonu
+Turkey	38	Kayseri
+Turkey	79	Kilis
+Turkey	41	Kocaeli
+Turkey	42	Konya
+Turkey	43	Kütahya
+Turkey	39	Kırklareli
+Turkey	71	Kırıkkale
+Turkey	40	Kırşehir
+Turkey	44	Malatya
+Turkey	45	Manisa
+Turkey	47	Mardin
+Turkey	33	Mersin
+Turkey	48	Muğla
+Turkey	49	Muş
+Turkey	50	Nevşehir
+Turkey	51	Niğde
+Turkey	52	Ordu
+Turkey	80	Osmaniye
+Turkey	53	Rize
+Turkey	54	Sakarya
+Turkey	55	Samsun
+Turkey	56	Siirt
+Turkey	57	Sinop
+Turkey	58	Sivas
+Turkey	59	Tekirdağ
+Turkey	60	Tokat
+Turkey	61	Trabzon
+Turkey	62	Tunceli
+Turkey	64	Uşak
+Turkey	65	Van
+Turkey	77	Yalova
+Turkey	66	Yozgat
+Turkey	67	Zonguldak
+Turkey	17	Çanakkale
+Turkey	18	Çankırı
+Turkey	19	Çorum
+Turkey	34	İstanbul
+Turkey	35	İzmir
+Turkey	63	Şanlıurfa
+Turkey	73	Şırnak
+Turkmenistan	A	Ahal
+Turkmenistan	S	Aşgabat
+Turkmenistan	B	Balkan
+Turkmenistan	D	Daşoguz
+Turkmenistan	L	Lebap
+Turkmenistan	M	Mary
+Tuvalu	FUN	Funafuti
+Tuvalu	NMG	Nanumanga
+Tuvalu	NMA	Nanumea
+Tuvalu	NIT	Niutao
+Tuvalu	NUI	Nui
+Tuvalu	NKF	Nukufetau
+Tuvalu	NKL	Nukulaelae
+Tuvalu	VAI	Vaitupu
+Uganda	C	Central
+Uganda	E	Eastern
+Uganda	N	Northern
+Uganda	W	Western
+Ukraine	43	Avtonomna Respublika Krym
+Ukraine	71	Cherkas'ka Oblast'
+Ukraine	74	Chernihivs'ka Oblast'
+Ukraine	77	Chernivets'ka Oblast'
+Ukraine	12	Dnipropetrovs'ka Oblast'
+Ukraine	14	Donets'ka Oblast'
+Ukraine	26	Ivano-Frankivs'ka Oblast'
+Ukraine	63	Kharkivs'ka Oblast'
+Ukraine	65	Khersons'ka Oblast'
+Ukraine	68	Khmel'nyts'ka Oblast'
+Ukraine	35	Kirovohrads'ka Oblast'
+Ukraine	30	Kyïv
+Ukraine	32	Kyïvs'ka Oblast'
+Ukraine	46	L'vivs'ka Oblast'
+Ukraine	9	Luhans'ka Oblast'
+Ukraine	48	Mykolaïvs'ka Oblast'
+Ukraine	51	Odes'ka Oblast'
+Ukraine	53	Poltavs'ka Oblast'
+Ukraine	56	Rivnens'ka Oblast'
+Ukraine	40	Sevastopol'
+Ukraine	59	Sums'ka Oblast'
+Ukraine	61	Ternopil's'ka Oblast'
+Ukraine	5	Vinnyts'ka Oblast'
+Ukraine	7	Volyns'ka Oblast'
+Ukraine	21	Zakarpats'ka Oblast'
+Ukraine	23	Zaporiz'ka Oblast'
+Ukraine	18	Zhytomyrs'ka Oblast'
+United Arab Emirates	AJ	'Ajmān
+United Arab Emirates	AZ	Abū Z̧aby
+United Arab Emirates	FU	Al Fujayrah
+United Arab Emirates	SH	Ash Shāriqah
+United Arab Emirates	DU	Dubayy
+United Arab Emirates	RK	Ra's al Khaymah
+United Arab Emirates	UQ	Umm al Qaywayn
+United Kingdom	BDG	Barking and Dagenham
+United Kingdom	BNE	Barnet
+United Kingdom	BEX	Bexley
+United Kingdom	BEN	Brent
+United Kingdom	BRY	Bromley
+United Kingdom	CMD	Camden
+United Kingdom	CRY	Croydon
+United Kingdom	EAL	Ealing
+United Kingdom	ENF	Enfield
+United Kingdom	GRE	Greenwich
+United Kingdom	HCK	Hackney
+United Kingdom	HMF	Hammersmith and Fulham
+United Kingdom	HRY	Haringey
+United Kingdom	HRW	Harrow
+United Kingdom	HAV	Havering
+United Kingdom	HIL	Hillingdon
+United Kingdom	HNS	Hounslow
+United Kingdom	ISL	Islington
+United Kingdom	KEC	Kensington and Chelsea
+United Kingdom	KTT	Kingston upon Thames
+United Kingdom	LBH	Lambeth
+United Kingdom	LEW	Lewisham
+United Kingdom	MRT	Merton
+United Kingdom	NWM	Newham
+United Kingdom	RDB	Redbridge
+United Kingdom	RIC	Richmond upon Thames
+United Kingdom	SWK	Southwark
+United Kingdom	STN	Sutton
+United Kingdom	TWH	Tower Hamlets
+United Kingdom	WFT	Waltham Forest
+United Kingdom	WND	Wandsworth
+United Kingdom	WSM	Westminster
+United Kingdom	EAW	England and Wales
+United Kingdom	GBN	Great Britain
+United Kingdom	UKM	United Kingdom
+United Kingdom	LND	London, City of
+United Kingdom	ABE	Aberdeen City
+United Kingdom	ABD	Aberdeenshire
+United Kingdom	ANS	Angus
+United Kingdom	AGB	Argyll and Bute
+United Kingdom	CLK	Clackmannanshire
+United Kingdom	DGY	Dumfries and Galloway
+United Kingdom	DND	Dundee City
+United Kingdom	EAY	East Ayrshire
+United Kingdom	EDU	East Dunbartonshire
+United Kingdom	ELN	East Lothian
+United Kingdom	ERW	East Renfrewshire
+United Kingdom	EDH	Edinburgh, City of
+United Kingdom	ELS	Eilean Siar
+United Kingdom	FAL	Falkirk
+United Kingdom	FIF	Fife
+United Kingdom	GLG	Glasgow City
+United Kingdom	HLD	Highland
+United Kingdom	IVC	Inverclyde
+United Kingdom	MLN	Midlothian
+United Kingdom	MRY	Moray
+United Kingdom	NAY	North Ayrshire
+United Kingdom	NLK	North Lanarkshire
+United Kingdom	ORK	Orkney Islands
+United Kingdom	PKN	Perth and Kinross
+United Kingdom	RFW	Renfrewshire
+United Kingdom	SCB	Scottish Borders, The
+United Kingdom	ZET	Shetland Islands
+United Kingdom	SAY	South Ayrshire
+United Kingdom	SLK	South Lanarkshire
+United Kingdom	STG	Stirling
+United Kingdom	WDU	West Dunbartonshire
+United Kingdom	WLN	West Lothian
+United Kingdom	ENG	England
+United Kingdom	SCT	Scotland
+United Kingdom	WLS	Wales
+United Kingdom	ANT	Antrim
+United Kingdom	ARD	Ards
+United Kingdom	ARM	Armagh
+United Kingdom	BLA	Ballymena
+United Kingdom	BLY	Ballymoney
+United Kingdom	BNB	Banbridge
+United Kingdom	BFS	Belfast
+United Kingdom	CKF	Carrickfergus
+United Kingdom	CSR	Castlereagh
+United Kingdom	CLR	Coleraine
+United Kingdom	CKT	Cookstown
+United Kingdom	CGV	Craigavon
+United Kingdom	DRY	Derry
+United Kingdom	DOW	Down
+United Kingdom	DGN	Dungannon and South Tyrone
+United Kingdom	FER	Fermanagh
+United Kingdom	LRN	Larne
+United Kingdom	LMV	Limavady
+United Kingdom	LSB	Lisburn
+United Kingdom	MFT	Magherafelt
+United Kingdom	MYL	Moyle
+United Kingdom	NYM	Newry and Mourne District
+United Kingdom	NTA	Newtownabbey
+United Kingdom	NDN	North Down
+United Kingdom	OMH	Omagh
+United Kingdom	STB	Strabane
+United Kingdom	BNS	Barnsley
+United Kingdom	BIR	Birmingham
+United Kingdom	BOL	Bolton
+United Kingdom	BRD	Bradford
+United Kingdom	BUR	Bury
+United Kingdom	CLD	Calderdale
+United Kingdom	COV	Coventry
+United Kingdom	DNC	Doncaster
+United Kingdom	DUD	Dudley
+United Kingdom	GAT	Gateshead
+United Kingdom	KIR	Kirklees
+United Kingdom	KWL	Knowsley
+United Kingdom	LDS	Leeds
+United Kingdom	LIV	Liverpool
+United Kingdom	MAN	Manchester
+United Kingdom	NET	Newcastle upon Tyne
+United Kingdom	NTY	North Tyneside
+United Kingdom	OLD	Oldham
+United Kingdom	RCH	Rochdale
+United Kingdom	ROT	Rotherham
+United Kingdom	SLF	Salford
+United Kingdom	SAW	Sandwell
+United Kingdom	SFT	Sefton
+United Kingdom	SHF	Sheffield
+United Kingdom	SOL	Solihull
+United Kingdom	STY	South Tyneside
+United Kingdom	SHN	St. Helens
+United Kingdom	SKP	Stockport
+United Kingdom	SND	Sunderland
+United Kingdom	TAM	Tameside
+United Kingdom	TRF	Trafford
+United Kingdom	WKF	Wakefield
+United Kingdom	WLL	Walsall
+United Kingdom	WGN	Wigan
+United Kingdom	WRL	Wirral
+United Kingdom	WLV	Wolverhampton
+United Kingdom	NIR	Northern Ireland
+United Kingdom	BKM	Buckinghamshire
+United Kingdom	CAM	Cambridgeshire
+United Kingdom	CMA	Cumbria
+United Kingdom	DBY	Derbyshire
+United Kingdom	DEV	Devon
+United Kingdom	DOR	Dorset
+United Kingdom	ESX	East Sussex
+United Kingdom	ESS	Essex
+United Kingdom	GLS	Gloucestershire
+United Kingdom	HAM	Hampshire
+United Kingdom	HRT	Hertfordshire
+United Kingdom	KEN	Kent
+United Kingdom	LAN	Lancashire
+United Kingdom	LEC	Leicestershire
+United Kingdom	LIN	Lincolnshire
+United Kingdom	NFK	Norfolk
+United Kingdom	NYK	North Yorkshire
+United Kingdom	NTH	Northamptonshire
+United Kingdom	NTT	Nottinghamshire
+United Kingdom	OXF	Oxfordshire
+United Kingdom	SOM	Somerset
+United Kingdom	STS	Staffordshire
+United Kingdom	SFK	Suffolk
+United Kingdom	SRY	Surrey
+United Kingdom	WAR	Warwickshire
+United Kingdom	WSX	West Sussex
+United Kingdom	WOR	Worcestershire
+United Kingdom	BAS	Bath and North East Somerset
+United Kingdom	BDF	Bedford
+United Kingdom	BBD	Blackburn with Darwen
+United Kingdom	BPL	Blackpool
+United Kingdom	BGW	Blaenau Gwent
+United Kingdom	BMH	Bournemouth
+United Kingdom	BRC	Bracknell Forest
+United Kingdom	BGE	Bridgend
+United Kingdom	BNH	Brighton and Hove
+United Kingdom	BST	Bristol, City of
+United Kingdom	CAY	Caerphilly
+United Kingdom	CRF	Cardiff
+United Kingdom	CMN	Carmarthenshire
+United Kingdom	CBF	Central Bedfordshire
+United Kingdom	CGN	Ceredigion
+United Kingdom	CHE	Cheshire East
+United Kingdom	CHW	Cheshire West and Chester
+United Kingdom	CWY	Conwy
+United Kingdom	CON	Cornwall
+United Kingdom	DAL	Darlington
+United Kingdom	DEN	Denbighshire
+United Kingdom	DER	Derby
+United Kingdom	DUR	Durham, County
+United Kingdom	ERY	East Riding of Yorkshire
+United Kingdom	FLN	Flintshire
+United Kingdom	GWN	Gwynedd
+United Kingdom	HAL	Halton
+United Kingdom	HPL	Hartlepool
+United Kingdom	HEF	Herefordshire
+United Kingdom	AGY	Isle of Anglesey
+United Kingdom	IOW	Isle of Wight
+United Kingdom	IOS	Isles of Scilly
+United Kingdom	KHL	Kingston upon Hull
+United Kingdom	LCE	Leicester
+United Kingdom	LUT	Luton
+United Kingdom	MDW	Medway
+United Kingdom	MTY	Merthyr Tydfil
+United Kingdom	MDB	Middlesbrough
+United Kingdom	MIK	Milton Keynes
+United Kingdom	MON	Monmouthshire
+United Kingdom	NTL	Neath Port Talbot
+United Kingdom	NWP	Newport
+United Kingdom	NEL	North East Lincolnshire
+United Kingdom	NLN	North Lincolnshire
+United Kingdom	NSM	North Somerset
+United Kingdom	NBL	Northumberland
+United Kingdom	NGM	Nottingham
+United Kingdom	PEM	Pembrokeshire
+United Kingdom	PTE	Peterborough
+United Kingdom	PLY	Plymouth
+United Kingdom	POL	Poole
+United Kingdom	POR	Portsmouth
+United Kingdom	POW	Powys
+United Kingdom	RDG	Reading
+United Kingdom	RCC	Redcar and Cleveland
+United Kingdom	RCT	Rhondda, Cynon, Taff
+United Kingdom	RUT	Rutland
+United Kingdom	SHR	Shropshire
+United Kingdom	SLG	Slough
+United Kingdom	SGC	South Gloucestershire
+United Kingdom	STH	Southampton
+United Kingdom	SOS	Southend-on-Sea
+United Kingdom	STT	Stockton-on-Tees
+United Kingdom	STE	Stoke-on-Trent
+United Kingdom	SWA	Swansea
+United Kingdom	SWD	Swindon
+United Kingdom	TFW	Telford and Wrekin
+United Kingdom	THR	Thurrock
+United Kingdom	TOB	Torbay
+United Kingdom	TOF	Torfaen
+United Kingdom	VGL	Vale of Glamorgan, The
+United Kingdom	WRT	Warrington
+United Kingdom	WBK	West Berkshire
+United Kingdom	WIL	Wiltshire
+United Kingdom	WNM	Windsor and Maidenhead
+United Kingdom	WOK	Wokingham
+United Kingdom	WRX	Wrexham
+United Kingdom	YOR	York
+United States	DC	District of Columbia
+United States	AS	American Samoa
+United States	GU	Guam
+United States	MP	Northern Mariana Islands
+United States	PR	Puerto Rico
+United States	UM	United States Minor Outlying Islands
+United States	VI	Virgin Islands, U.S.
+United States	AL	Alabama
+United States	AK	Alaska
+United States	AZ	Arizona
+United States	AR	Arkansas
+United States	CA	California
+United States	CO	Colorado
+United States	CT	Connecticut
+United States	DE	Delaware
+United States	FL	Florida
+United States	GA	Georgia
+United States	HI	Hawaii
+United States	ID	Idaho
+United States	IL	Illinois
+United States	IN	Indiana
+United States	IA	Iowa
+United States	KS	Kansas
+United States	KY	Kentucky
+United States	LA	Louisiana
+United States	ME	Maine
+United States	MD	Maryland
+United States	MA	Massachusetts
+United States	MI	Michigan
+United States	MN	Minnesota
+United States	MS	Mississippi
+United States	MO	Missouri
+United States	MT	Montana
+United States	NE	Nebraska
+United States	NV	Nevada
+United States	NH	New Hampshire
+United States	NJ	New Jersey
+United States	NM	New Mexico
+United States	NY	New York
+United States	NC	North Carolina
+United States	ND	North Dakota
+United States	OH	Ohio
+United States	OK	Oklahoma
+United States	OR	Oregon
+United States	PA	Pennsylvania
+United States	RI	Rhode Island
+United States	SC	South Carolina
+United States	SD	South Dakota
+United States	TN	Tennessee
+United States	TX	Texas
+United States	UT	Utah
+United States	VT	Vermont
+United States	VA	Virginia
+United States	WA	Washington
+United States	WV	West Virginia
+United States	WI	Wisconsin
+United States	WY	Wyoming
+Uruguay	AR	Artigas
+Uruguay	CA	Canelones
+Uruguay	CL	Cerro Largo
+Uruguay	CO	Colonia
+Uruguay	DU	Durazno
+Uruguay	FS	Flores
+Uruguay	FD	Florida
+Uruguay	LA	Lavalleja
+Uruguay	MA	Maldonado
+Uruguay	MO	Montevideo
+Uruguay	PA	Paysandú
+Uruguay	RV	Rivera
+Uruguay	RO	Rocha
+Uruguay	RN	Río Negro
+Uruguay	SA	Salto
+Uruguay	SJ	San José
+Uruguay	SO	Soriano
+Uruguay	TA	Tacuarembó
+Uruguay	TT	Treinta y Tres
+Uzbekistan	AN	Andijon
+Uzbekistan	BU	Buxoro
+Uzbekistan	FA	Farg‘ona
+Uzbekistan	JI	Jizzax
+Uzbekistan	NG	Namangan
+Uzbekistan	NW	Navoiy
+Uzbekistan	QA	Qashqadaryo
+Uzbekistan	QR	Qoraqalpog‘iston Respublikasi
+Uzbekistan	SA	Samarqand
+Uzbekistan	SI	Sirdaryo
+Uzbekistan	SU	Surxondaryo
+Uzbekistan	TO	Toshkent
+Uzbekistan	TK	Toshkent
+Uzbekistan	XO	Xorazm
+Vanuatu	MAP	Malampa
+Vanuatu	PAM	Pénama
+Vanuatu	SAM	Sanma
+Vanuatu	SEE	Shéfa
+Vanuatu	TAE	Taféa
+Vanuatu	TOB	Torba
+Venezuela	Z	Amazonas
+Venezuela	B	Anzoátegui
+Venezuela	C	Apure
+Venezuela	D	Aragua
+Venezuela	E	Barinas
+Venezuela	F	Bolívar
+Venezuela	G	Carabobo
+Venezuela	H	Cojedes
+Venezuela	Y	Delta Amacuro
+Venezuela	W	Dependencias Federales
+Venezuela	A	Distrito Capital
+Venezuela	I	Falcón
+Venezuela	J	Guárico
+Venezuela	K	Lara
+Venezuela	M	Miranda
+Venezuela	N	Monagas
+Venezuela	L	Mérida
+Venezuela	O	Nueva Esparta
+Venezuela	P	Portuguesa
+Venezuela	R	Sucre
+Venezuela	T	Trujillo
+Venezuela	S	Táchira
+Venezuela	X	Vargas
+Venezuela	U	Yaracuy
+Venezuela	V	Zulia
+Vietnam	44	An Giang
+Vietnam	43	Bà Rịa–Vũng Tàu
+Vietnam	57	Bình Dương
+Vietnam	58	Bình Phước
+Vietnam	40	Bình Thuận
+Vietnam	31	Bình Định
+Vietnam	55	Bạc Liêu
+Vietnam	54	Bắc Giang
+Vietnam	53	Bắc Kạn
+Vietnam	56	Bắc Ninh
+Vietnam	50	Bến Tre
+Vietnam	4	Cao Bằng
+Vietnam	59	Cà Mau
+Vietnam	CT	Cần Thơ
+Vietnam	30	Gia Lai
+Vietnam	3	Hà Giang
+Vietnam	63	Hà Nam
+Vietnam	HN	Hà Nội
+Vietnam	15	Hà Tây
+Vietnam	23	Hà Tĩnh
+Vietnam	14	Hòa Bình
+Vietnam	66	Hưng Yên
+Vietnam	61	Hải Dương
+Vietnam	HP	Hải Phòng
+Vietnam	73	Hậu Giang
+Vietnam	SG	Hồ Chí Minh
+Vietnam	34	Khánh Hòa
+Vietnam	47	Kiên Giang
+Vietnam	28	Kon Tum
+Vietnam	1	Lai Châu
+Vietnam	41	Long An
+Vietnam	2	Lào Cai
+Vietnam	35	Lâm Đồng
+Vietnam	9	Lạng Sơn
+Vietnam	67	Nam Định
+Vietnam	22	Nghệ An
+Vietnam	18	Ninh Bình
+Vietnam	36	Ninh Thuận
+Vietnam	68	Phú Thọ
+Vietnam	32	Phú Yên
+Vietnam	24	Quảng Bình
+Vietnam	27	Quảng Nam
+Vietnam	29	Quảng Ngãi
+Vietnam	13	Quảng Ninh
+Vietnam	25	Quảng Trị
+Vietnam	52	Sóc Trăng
+Vietnam	5	Sơn La
+Vietnam	21	Thanh Hóa
+Vietnam	20	Thái Bình
+Vietnam	69	Thái Nguyên
+Vietnam	26	Thừa Thiên–Huế
+Vietnam	46	Tiền Giang
+Vietnam	51	Trà Vinh
+Vietnam	7	Tuyên Quang
+Vietnam	37	Tây Ninh
+Vietnam	49	Vĩnh Long
+Vietnam	70	Vĩnh Phúc
+Vietnam	6	Yên Bái
+Vietnam	71	Điện Biên
+Vietnam	DN	Đà Nẵng
+Vietnam	33	Đắk Lắk
+Vietnam	72	Đắk Nông
+Vietnam	39	Đồng Nai
+Vietnam	45	Đồng Tháp
+Yemen	AD	'Adan
+Yemen	AM	'Amrān
+Yemen	AB	Abyān
+Yemen	BA	Al Bayḑā'
+Yemen	JA	Al Jawf
+Yemen	MR	Al Mahrah
+Yemen	MW	Al Maḩwīt
+Yemen	HU	Al Ḩudaydah
+Yemen	DA	Aḑ Ḑāli'
+Yemen	DH	Dhamār
+Yemen	IB	Ibb
+Yemen	LA	Laḩij
+Yemen	MA	Ma'rib
+Yemen	RA	Raymah
+Yemen	SH	Shabwah
+Yemen	TA	Tā‘izz
+Yemen	SA	Şan‘ā'
+Yemen	SN	Şan‘ā'
+Yemen	SD	Şā‘dah
+Yemen	HJ	Ḩajjah
+Yemen	HD	Ḩaḑramawt
+Zambia	2	Central
+Zambia	8	Copperbelt
+Zambia	3	Eastern
+Zambia	4	Luapula
+Zambia	9	Lusaka
+Zambia	6	North-Western
+Zambia	5	Northern
+Zambia	7	Southern
+Zambia	1	Western
+Zimbabwe	BU	Bulawayo
+Zimbabwe	HA	Harare
+Zimbabwe	MA	Manicaland
+Zimbabwe	MC	Mashonaland Central
+Zimbabwe	ME	Mashonaland East
+Zimbabwe	MW	Mashonaland West
+Zimbabwe	MV	Masvingo
+Zimbabwe	MN	Matabeleland North
+Zimbabwe	MS	Matabeleland South
+Zimbabwe	MI	Midlands
