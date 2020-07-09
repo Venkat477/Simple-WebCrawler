@@ -1,12 +1,12 @@
 # Simple-WebCrawler
 This is a simple web crawler, which takes a URL as an input and will provide below details in a detailed easy readable format.
 
-**1. Company Name**
-**2. Company Logo**
-**3. Company Email Address**
-**4. Company Phone Numbers**
-**5. Company Social Profile Links**
-**6. Company Address**
+***1. Company Name
+2. Company Logo
+3. Company Email Address
+4. Company Phone Numbers
+5. Company Social Profile Links
+6. Company Address***
 
 This a basic project on how to extract some key and useful insights from a given Domain Name. Using this, we can create much more neat and accurate crawlers for extracting which ever information we need from any given Domain Name.
 
