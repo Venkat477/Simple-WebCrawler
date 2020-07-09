@@ -20,6 +20,6 @@ I tried to include all the possible cases to extract the above information, but 
 3. Used Pandas to read and query CSV files. <br />
 4. Used BeautifulSoup (bs4) module to scrape the domain web pages.***
 
-Programming Language: Python3.7
+**Programming Language:** Python3.7
 
 Test the webapp using the given link (https://simplewebcrawler.herokuapp.com/)
